@@ -3,9 +3,9 @@
 		{
 			"id": 0,
 			"name_i18n": {
-				"common": "blackrice",
-				"es": "Arroz Negro con Zamburiñas",
-				"en": "Black Rice"
+				"common": "cacadelavaca",
+				"es": "caca de la vaca",
+				"en": "cows shit"
 			},
 			"price": 16.9,
 			"cover": "/items/blackrice.webp",
