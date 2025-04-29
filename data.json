@@ -702,25 +702,6 @@
 				"es": "Fanta de naranja refrescante en botella de 350ml, repleta de sabor cítrico vibrante y un acabado burbujeante.",
 				"en": "Refreshing orange Fanta in a 350ml bottle, bursting with zesty citrus flavor and a fizzy finish."
 			}
-		},
-		{
-			"id": 43,
-			"name_i18n": {
-				"common": "cowshit",
-				"es": "caca de la vaca",
-				"en": "cow's shit"
-			},
-			"price": 2.5,
-			"cover": "/items/fantadenaranja.webp",
-			"category": {
-				"common": "drinks",
-				"es": "bebidas",
-				"en": "drinks"
-			},
-			"description": {
-				"es": "Fanta de naranja refrescante en botella de 350ml, repleta de sabor cítrico vibrante y un acabado burbujeante.",
-				"en": "Refreshing orange Fanta in a 350ml bottle, bursting with zesty citrus flavor and a fizzy finish."
-			}
 		}
 	]
 }
