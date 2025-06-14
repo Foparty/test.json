@@ -1,4 +1,69 @@
 {
+  "categories": [
+    {
+      "order": 1,
+      "slug": "appetizers",
+      "es": "entrantes",
+      "en": "appetizers",
+      "cover": "/categories/appetizers.webp"
+    },
+    {
+      "order": 2,
+      "slug": "salads",
+      "es": "ensaladas",
+      "en": "salads",
+      "cover": "/categories/salads.webp"
+    },
+    {
+      "order": 3,
+      "slug": "soups",
+      "es": "sopas",
+      "en": "soups",
+      "cover": "/categories/soups.webp"
+    },
+    {
+      "order": 4,
+      "slug": "maincourses",
+      "es": "principales",
+      "en": "main courses",
+      "cover": "/categories/maincourses.webp"
+    },
+    {
+      "order": 5,
+      "slug": "sidedishes",
+      "es": "guarniciones",
+      "en": "side dishes",
+      "cover": "/categories/sidedishes.webp"
+    },
+    {
+      "order": 6,
+      "slug": "kidsmenu",
+      "es": "menú infantil",
+      "en": "kids menu",
+      "cover": "/categories/kidsmenu.webp"
+    },
+    {
+      "order": 7,
+      "slug": "desserts",
+      "es": "postres",
+      "en": "desserts",
+      "cover": "/categories/desserts.webp"
+    },
+    {
+      "order": 8,
+      "slug": "specials",
+      "es": "especiales",
+      "en": "specials",
+      "cover": "/categories/specials.webp"
+    },
+    {
+      "order": 9,
+      "slug": "drinks",
+      "es": "bebidas",
+      "en": "drinks",
+      "cover": "/categories/drinks.webp"
+    }
+  ],
   "items": [
     {
       "id": 0,
