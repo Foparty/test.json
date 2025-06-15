@@ -1,4 +1,17 @@
 {
+  "siteCover": "/items/applespritz.webp",
+  "siteWelcome": {
+    "es": "Bienvenido a",
+    "en": "Welcome to"
+  },
+  "siteName": {
+    "es": "Mordisco vibrantito",
+    "en": "Neon Nibble"
+  },
+  "siteDescription": {
+    "es": "El Bar de Alfonso es un restaurante familiar que ofrece comida casera y un ambiente acogedor.",
+    "en": "Alfonso's Bar is a family restaurant that offers homemade food and a cozy atmosphere."
+  },
   "categories": [
     {
       "order": 1,
