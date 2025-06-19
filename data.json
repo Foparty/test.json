@@ -1,1154 +1,1154 @@
 {
-	"siteCover": "/items/applespritz.webp",
-	"siteWelcome": {
-		"es": "Bienvenido a",
-		"en": "Welcome to",
-		"pt": "Bem-vindo a",
-		"fr": "Bienvenue à",
-		"de": "Willkommen bei"
-	},
-	"siteName": {
-		"es": "Mordisco vibrante",
-		"en": "Neon Nibble",
-		"pt": "Mordida Neon",
-		"fr": "Morsure Néon",
-		"de": "Neon Biss"
-	},
-	"siteDescription": {
-		"es": "El Bar de Alfonso es un restaurante familiar que ofrece comida casera y un ambiente acogedor.",
-		"en": "Alfonso's Bar is a family restaurant that offers homemade food and a cozy atmosphere.",
-		"pt": "O Bar do Alfonso é um restaurante familiar que oferece comida caseira e um ambiente acolhedor.",
-		"fr": "Le Bar d'Alfonso est un restaurant familial qui propose une cuisine maison et une ambiance chaleureuse.",
-		"de": "Alfonso's Bar ist ein Familienrestaurant, das hausgemachtes Essen und eine gemütliche Atmosphäre bietet."
-	},
-	"categories": [
-		{
-			"order": 1,
-			"slug": "appetizers",
-			"es": "entrantes",
-			"en": "appetizers",
-			"pt": "entradas",
-			"fr": "entrées",
-			"de": "Vorspeisen",
-			"cover": "/categories/appetizers.webp"
-		},
-		{
-			"order": 2,
-			"slug": "salads",
-			"es": "ensaladas",
-			"en": "salads",
-			"pt": "saladas",
-			"fr": "salades",
-			"de": "Salate",
-			"cover": "/categories/salads.webp"
-		},
-		{
-			"order": 3,
-			"slug": "soups",
-			"es": "sopas",
-			"en": "soups",
-			"pt": "sopas",
-			"fr": "soupes",
-			"de": "Suppen",
-			"cover": "/categories/soups.webp"
-		},
-		{
-			"order": 4,
-			"slug": "maincourses",
-			"es": "principales",
-			"en": "main courses",
-			"pt": "pratos principais",
-			"fr": "plats principaux",
-			"de": "Hauptgerichte",
-			"cover": "/categories/maincourses.webp"
-		},
-		{
-			"order": 5,
-			"slug": "sidedishes",
-			"es": "guarniciones",
-			"en": "side dishes",
-			"pt": "acompanhamentos",
-			"fr": "accompagnements",
-			"de": "Beilagen",
-			"cover": "/categories/sidedishes.webp"
-		},
-		{
-			"order": 6,
-			"slug": "kidsmenu",
-			"es": "menú infantil",
-			"en": "kids menu",
-			"pt": "menu infantil",
-			"fr": "menu enfants",
-			"de": "Kindermenü",
-			"cover": "/categories/kidsmenu.webp"
-		},
-		{
-			"order": 7,
-			"slug": "desserts",
-			"es": "postres",
-			"en": "desserts",
-			"pt": "sobremesas",
-			"fr": "desserts",
-			"de": "Desserts",
-			"cover": "/categories/desserts.webp"
-		},
-		{
-			"order": 8,
-			"slug": "specials",
-			"es": "especiales",
-			"en": "specials",
-			"pt": "especiais",
-			"fr": "spécialités",
-			"de": "Spezialitäten",
-			"cover": "/categories/specials.webp"
-		},
-		{
-			"order": 9,
-			"slug": "drinks",
-			"es": "bebidas",
-			"en": "drinks",
-			"pt": "bebidas",
-			"fr": "boissons",
-			"de": "Getränke",
-			"cover": "/categories/drinks.webp"
-		}
-	],
-	"items": [
-		{
-			"id": 0,
-			"name_i18n": {
-				"common": "blackrice",
-				"es": "Arroz Negro con Zamburiñas",
-				"en": "Black Rice",
-				"pt": "Arroz Negro com Vieira",
-				"fr": "Riz Noir aux Pétoncles",
-				"de": "Schwarzer Reis mit Jakobsmuscheln"
-			},
-			"price": 16.9,
-			"cover": "/blackrice.webp",
-			"category": {
-				"common": "maincourses",
-				"es": "principales",
-				"en": "main courses",
-				"pt": "pratos principais",
-				"fr": "plats principaux",
-				"de": "Hauptgerichte"
-			},
-			"description": {
-				"es": "Arroz negro infusionado con tinta de calamar, coronado con zamburiñas tiernas y un toque de alioli, lleno de sabores costeros.",
-				"en": "Black rice infused with squid ink, topped with tender scallops and a touch of aioli, bursting with coastal flavors.",
-				"pt": "Arroz negro infusionado com tinta de lula, coberto com vieiras tenras e um toque de aioli, repleto de sabores do mar.",
-				"fr": "Riz noir infusé à l'encre de seiche, garni de pétoncles tendres et d'une touche d'aïoli, plein de saveurs marines.",
-				"de": "Schwarzer Reis mit Tintenfischtinte, garniert mit zarten Jakobsmuscheln und einem Hauch Aioli, voller Küstenaromen."
-			}
-		},
-		{
-			"id": 1,
-			"name_i18n": {
-				"common": "orangejuice",
-				"es": "Zumo de Naranja Natural",
-				"en": "Natural Orange Juice",
-				"pt": "Suco de Laranja Natural",
-				"fr": "Jus d'Orange Naturel",
-				"de": "Frischer Orangensaft"
-			},
-			"price": 3.2,
-			"cover": "/orangejuice.webp",
-			"category": {
-				"common": "drinks",
-				"es": "bebidas",
-				"en": "drinks",
-				"pt": "bebidas",
-				"fr": "boissons",
-				"de": "Getränke"
-			},
-			"description": {
-				"es": "Zumo de naranja natural recién exprimido en vaso de 350ml, rebosante de sabor cítrico dulce y ácido.",
-				"en": "Freshly squeezed natural orange juice in a 350ml glass, bursting with sweet and tangy citrus flavor.",
-				"pt": "Suco de laranja natural recém-espremido em copo de 350ml, repleto de sabor cítrico doce e ácido.",
-				"fr": "Jus d'orange naturel fraîchement pressé dans un verre de 350ml, débordant de saveur d'agrumes douce et acidulée.",
-				"de": "Frisch gepresster Orangensaft im 350ml-Glas, voller süßer und herber Zitrusaromen."
-			}
-		},
-		{
-			"id": 2,
-			"name_i18n": {
-				"common": "cheesepizza",
-				"es": "Pizza de Queso",
-				"en": "Cheese Pizza",
-				"pt": "Pizza de Queijo",
-				"fr": "Pizza au Fromage",
-				"de": "Käsepizza"
-			},
-			"price": 7.5,
-			"cover": "/cheesepizza.webp",
-			"category": {
-				"common": "kidsmenu",
-				"es": "menú infantil",
-				"en": "kids menu",
-				"pt": "menu infantil",
-				"fr": "menu enfants",
-				"de": "Kindermenü"
-			},
-			"description": {
-				"es": "Una pizza amigable para niños con una masa suave, cubierta con salsa de tomate rica y queso mozzarella derretido.",
-				"en": "A kid-friendly pizza with a soft crust, topped with rich tomato sauce and melted mozzarella cheese.",
-				"pt": "Uma pizza para crianças com massa macia, coberta com molho de tomate rico e queijo mussarela derretido.",
-				"fr": "Une pizza adaptée aux enfants avec une pâte moelleuse, garnie de sauce tomate riche et de mozzarella fondue.",
-				"de": "Eine kinderfreundliche Pizza mit weichem Teig, belegt mit reichhaltiger Tomatensauce und geschmolzenem Mozzarella."
-			}
-		},
-		{
-			"id": 3,
-			"name_i18n": {
-				"common": "pulpobrasa",
-				"es": "Pulpo a la Brasa",
-				"en": "Pulpo a la Brasa",
-				"pt": "Polvo Grelhado",
-				"fr": "Poulpe Grillé",
-				"de": "Gegrillter Oktopus"
-			},
-			"price": 18.9,
-			"cover": "/pulpoalabrasa.webp",
-			"category": {
-				"common": "maincourses",
-				"es": "principales",
-				"en": "main courses",
-				"pt": "pratos principais",
-				"fr": "plats principaux",
-				"de": "Hauptgerichte"
-			},
-			"description": {
-				"es": "Pulpo tierno a la parrilla, sazonado con pimentón ahumado y servido con patatas asadas y un chorrito de aceite de oliva.",
-				"en": "Tender grilled octopus, seasoned with smoked paprika and served with roasted potatoes and a drizzle of olive oil.",
-				"pt": "Polvo tenro grelhado, temperado com páprica defumada e servido com batatas assadas e um fio de azeite.",
-				"fr": "Poulpe tendre grillé, assaisonné de paprika fumé et servi avec des pommes de terre rôties et un filet d'huile d'olive.",
-				"de": "Zarter gegrillter Oktopus, gewürzt mit geräuchertem Paprika und serviert mit Ofenkartoffeln und einem Schuss Olivenöl."
-			}
-		},
-		{
-			"id": 4,
-			"name_i18n": {
-				"common": "avocadosalad",
-				"es": "Ensalada de Aguacate",
-				"en": "Avocado Salad",
-				"pt": "Salada de Abacate",
-				"fr": "Salade d'Avocat",
-				"de": "Avocadosalat"
-			},
-			"price": 8.5,
-			"cover": "/avocadosalad.webp",
-			"category": {
-				"common": "salads",
-				"es": "ensaladas",
-				"en": "salads",
-				"pt": "saladas",
-				"fr": "salades",
-				"de": "Salate"
-			},
-			"description": {
-				"es": "Una fresca y deliciosa ensalada de aguacate, ideal para acompañar cualquier comida.",
-				"en": "A fresh and delicious avocado salad, perfect to accompany any meal.",
-				"pt": "Uma salada de abacate fresca e deliciosa, perfeita para acompanhar qualquer refeição.",
-				"fr": "Une salade d'avocat fraîche et délicieuse, parfaite pour accompagner n'importe quel repas.",
-				"de": "Ein frischer und köstlicher Avocadosalat, perfekt als Beilage zu jeder Mahlzeit."
-			}
-		},
-		{
-			"id": 5,
-			"name_i18n": {
-				"common": "frenchfries",
-				"es": "Patatas Fritas",
-				"en": "Side French Fries",
-				"pt": "Batatas Fritas",
-				"fr": "Frites",
-				"de": "Pommes Frites"
-			},
-			"price": 3.5,
-			"cover": "/frenchfries.webp",
-			"category": {
-				"common": "sidedishes",
-				"es": "guarniciones",
-				"en": "side dishes",
-				"pt": "acompanhamentos",
-				"fr": "accompagnements",
-				"de": "Beilagen"
-			},
-			"description": {
-				"es": "Patatas fritas doradas y crujientes, perfectamente sazonadas y servidas calientes, ideales como acompañamiento o snack.",
-				"en": "Golden, crispy French fries, perfectly seasoned and served hot, ideal as a side or snack.",
-				"pt": "Batatas fritas douradas e crocantes, perfeitamente temperadas e servidas quentes, ideais como acompanhamento ou lanche.",
-				"fr": "Frites dorées et croustillantes, parfaitement assaisonnées et servies chaudes, idéales en accompagnement ou en snack.",
-				"de": "Goldene, knusprige Pommes frites, perfekt gewürzt und heiß serviert, ideal als Beilage oder Snack."
-			}
-		},
-		{
-			"id": 6,
-			"name_i18n": {
-				"common": "vegetablemedley",
-				"es": "Mezcla de Verduras",
-				"en": "Vegetable Medley",
-				"pt": "Mix de Legumes",
-				"fr": "Mélange de Légumes",
-				"de": "Gemüsemischung"
-			},
-			"price": 4.5,
-			"cover": "/vegetablemedley.webp",
-			"category": {
-				"common": "sidedishes",
-				"es": "guarniciones",
-				"en": "side dishes",
-				"pt": "acompanhamentos",
-				"fr": "accompagnements",
-				"de": "Beilagen"
-			},
-			"description": {
-				"es": "Una mezcla colorida de verduras de temporada al vapor, ligeramente sazonadas y rociadas con aceite de oliva para un acompañamiento saludable y vibrante.",
-				"en": "A colorful mix of steamed seasonal vegetables, lightly seasoned and drizzled with olive oil for a healthy, vibrant side.",
-				"pt": "Uma mistura colorida de legumes sazonais cozidos no vapor, levemente temperados e regados com azeite para um acompanhamento saudável e vibrante.",
-				"fr": "Un mélange coloré de légumes de saison cuits à la vapeur, légèrement assaisonnés et arrosés d'huile d'olive pour un accompagnement sain et vibrant.",
-				"de": "Eine bunte Mischung aus gedämpftem saisonalem Gemüse, leicht gewürzt und mit Olivenöl beträufelt, für eine gesunde, lebendige Beilage."
-			}
-		},
-		{
-			"id": 7,
-			"name_i18n": {
-				"common": "sevenup",
-				"es": "Seven Up",
-				"en": "Seven Up",
-				"pt": "Seven Up",
-				"fr": "Seven Up",
-				"de": "Seven Up"
-			},
-			"price": 2.5,
-			"cover": "/sevenup.webp",
-			"category": {
-				"common": "drinks",
-				"es": "bebidas",
-				"en": "drinks",
-				"pt": "bebidas",
-				"fr": "boissons",
-				"de": "Getränke"
-			},
-			"description": {
-				"es": "Seven Up crujiente y refrescante en botella de 350ml, con un vibrante sabor a limón-lima y un toque efervescente.",
-				"en": "Crisp and refreshing Seven Up in a 350ml bottle, with a zesty lemon-lime flavor and bubbly finish.",
-				"pt": "Seven Up crocante e refrescante em garrafa de 350ml, com um sabor vibrante de limão e um toque efervescente.",
-				"fr": "Seven Up pétillant et rafraîchissant en bouteille de 350ml, avec une saveur vive de citron-lime et une touche effervescente.",
-				"de": "Knackiges und erfrischendes Seven Up in der 350ml-Flasche, mit spritzigem Zitronen-Limetten-Geschmack und prickelndem Abgang."
-			}
-		},
-		{
-			"id": 8,
-			"name_i18n": {
-				"common": "beer",
-				"es": "Cerveza",
-				"en": "Beer",
-				"pt": "Cerveja",
-				"fr": "Bière",
-				"de": "Bier"
-			},
-			"price": 3.0,
-			"cover": "/beer.webp",
-			"category": {
-				"common": "drinks",
-				"es": "bebidas",
-				"en": "drinks",
-				"pt": "bebidas",
-				"fr": "boissons",
-				"de": "Getränke"
-			},
-			"description": {
-				"es": "Una cerveza de barril refrescante, elaborada con lúpulo y cebada de calidad, que ofrece un sabor fresco y equilibrado.",
-				"en": "A refreshing draft beer, brewed with quality hops and barley, offering a crisp and balanced flavor.",
-				"pt": "Uma cerveja de barril refrescante, feita com lúpulo e cevada de qualidade, que oferece um sabor fresco e equilibrado.",
-				"fr": "Une bière pression rafraîchissante, brassée avec du houblon et de l'orge de qualité, offrant une saveur fraîche et équilibrée.",
-				"de": "Ein erfrischendes Fassbier, gebraut mit hochwertigem Hopfen und Gerste, bietet einen frischen und ausgewogenen Geschmack."
-			}
-		},
-		{
-			"id": 9,
-			"name_i18n": {
-				"common": "aquarius",
-				"es": "Aquarius de Limón",
-				"en": "Lemon Aquarius",
-				"pt": "Aquarius de Limão",
-				"fr": "Aquarius Citron",
-				"de": "Aquarius Zitrone"
-			},
-			"price": 2.8,
-			"cover": "/aquarius.webp",
-			"category": {
-				"common": "drinks",
-				"es": "bebidas",
-				"en": "drinks",
-				"pt": "bebidas",
-				"fr": "boissons",
-				"de": "Getränke"
-			},
-			"description": {
-				"es": "Aquarius con sabor a limón en botella de 350ml, una bebida refrescante sin gas con electrolitos para una hidratación óptima.",
-				"en": "Zesty lemon-flavored Aquarius in a 350ml bottle, a refreshing non-carbonated drink with electrolytes for hydration.",
-				"pt": "Aquarius com sabor a limão em garrafa de 350ml, uma bebida refrescante sem gás com eletrólitos para hidratação ideal.",
-				"fr": "Aquarius saveur citron en bouteille de 350ml, une boisson rafraîchissante sans gaz avec électrolytes pour une hydratation optimale.",
-				"de": "Aquarius mit Zitronengeschmack in der 350ml-Flasche, ein erfrischendes, kohlensäurefreies Getränk mit Elektrolyten für optimale Hydration."
-			}
-		},
-		{
-			"id": 10,
-			"name_i18n": {
-				"common": "chessetable",
-				"es": "Tabla de quesos",
-				"en": "Cheese Table",
-				"pt": "Táboa de Queijos",
-				"fr": "Table de Fromages",
-				"de": "Käseplatte"
-			},
-			"price": 12.9,
-			"cover": "/chessetable.webp",
-			"category": {
-				"common": "appetizers",
-				"es": "entrantes",
-				"en": "appetizers",
-				"pt": "entradas",
-				"fr": "entrées",
-				"de": "Vorspeisen"
-			},
-			"description": {
-				"es": "Una deliciosa selección de quesos, perfecta para cualquier reunión.",
-				"en": "A delicious selection of cheeses, perfect for any gathering.",
-				"pt": "Uma deliciosa seleção de queijos, perfeita para qualquer reunião.",
-				"fr": "Une délicieuse sélection de fromages, parfaite pour tout rassemblement.",
-				"de": "Eine köstliche Auswahl an Käsesorten, perfekt für jede Zusammenkunft."
-			}
-		},
-		{
-			"id": 11,
-			"name_i18n": {
-				"common": "creoleempanada",
-				"es": "Empanada Criolla",
-				"en": "Creole Empanada",
-				"pt": "Empanada Crioula",
-				"fr": "Empanada Créole",
-				"de": "Kreolische Empanada"
-			},
-			"price": 3.5,
-			"cover": "/creoleempanada.webp",
-			"category": {
-				"common": "appetizers",
-				"es": "entrantes",
-				"en": "appetizers",
-				"pt": "entradas",
-				"fr": "entrées",
-				"de": "Vorspeisen"
-			},
-			"description": {
-				"es": "Una empanada tradicional criolla con un relleno sabroso y auténtico.",
-				"en": "A traditional Creole empanada with a flavorful and authentic filling.",
-				"pt": "Uma empanada tradicional crioula com um recheio saboroso e autêntico.",
-				"fr": "Une empanada créole traditionnelle avec une garniture savoureuse et authentique.",
-				"de": "Eine traditionelle kreolische Empanada mit einer würzigen und authentischen Füllung."
-			}
-		},
-		{
-			"id": 12,
-			"name_i18n": {
-				"common": "cesarsalad",
-				"es": "Ensalada César",
-				"en": "Cesar Salad",
-				"pt": "Salada Caesar",
-				"fr": "Salade Caesar",
-				"de": "Caesar Salat"
-			},
-			"price": 8.9,
-			"cover": "/cesarsalad.webp",
-			"category": {
-				"common": "salads",
-				"es": "ensaladas",
-				"en": "salads",
-				"pt": "saladas",
-				"fr": "salades",
-				"de": "Salate"
-			},
-			"description": {
-				"es": "Lechuga romana crujiente mezclada con aderezo César cremoso, coronada con picatostes, virutas de parmesano y pollo a la parrilla opcional.",
-				"en": "Crisp romaine lettuce tossed with creamy Cesar dressing, topped with croutons, parmesan shavings, and optional grilled chicken.",
-				"pt": "Alface romana crocante misturada com molho Caesar cremoso, coberta com croutons, lascas de parmesão e frango grelhado opcional.",
-				"fr": "Laitue romaine croquante mélangée à une sauce Caesar crémeuse, garnie de croûtons, copeaux de parmesan et poulet grillé en option.",
-				"de": "Knackiger Römersalat mit cremigem Caesar-Dressing, garniert mit Croutons, Parmesanspänen und optional gegrilltem Hähnchen."
-			}
-		},
-		{
-			"id": 13,
-			"name_i18n": {
-				"common": "whitewine",
-				"es": "Copa de Vino Blanco",
-				"en": "Glass of White Wine",
-				"pt": "Taça de Vinho Branco",
-				"fr": "Verre de Vin Blanc",
-				"de": "Glas Weißwein"
-			},
-			"price": 4.5,
-			"cover": "/whitewine.webp",
-			"category": {
-				"common": "drinks",
-				"es": "bebidas",
-				"en": "drinks",
-				"pt": "bebidas",
-				"fr": "boissons",
-				"de": "Getränke"
-			},
-			"description": {
-				"es": "Un vino blanco fresco y crujiente, servido en copa de 175ml, con vibrantes notas de cítricos y manzana verde.",
-				"en": "A crisp and refreshing white wine, served in a 175ml glass, with vibrant citrus and green apple notes.",
-				"pt": "Um vinho branco fresco e crocante, servido em taça de 175ml, com notas vibrantes de cítricos e maçã verde.",
-				"fr": "Un vin blanc frais et croquant, servi dans un verre de 175ml, avec des notes vives d'agrumes et de pomme verte.",
-				"de": "Ein frischer und knackiger Weißwein, serviert im 175ml-Glas, mit lebendigen Zitrus- und grünen Apfelnoten."
-			}
-		},
-		{
-			"id": 20,
-			"name_i18n": {
-				"common": "beetrootsoup",
-				"es": "Sopa de Remolacha",
-				"en": "Beetroot Soup",
-				"pt": "Sopa de Beterraba",
-				"fr": "Soupe de Betterave",
-				"de": "Rote-Bete-Suppe"
-			},
-			"price": 7.0,
-			"cover": "/beetrootsoup.webp",
-			"category": {
-				"common": "soups",
-				"es": "sopas",
-				"en": "soups",
-				"pt": "sopas",
-				"fr": "soupes",
-				"de": "Suppen"
-			},
-			"description": {
-				"es": "Una sopa de remolacha vibrante y aterciopelada, mezclada con verduras de raíz y un toque de crema para un sabor rico y terroso.",
-				"en": "A vibrant, velvety beetroot soup, blended with root vegetables and a hint of cream for a rich, earthy flavor.",
-				"pt": "Uma sopa de beterraba vibrante e aveludada, misturada com vegetais de raiz e um toque de creme para um sabor rico e terroso.",
-				"fr": "Une soupe de betterave vibrante et veloutée, mélangée à des légumes racines et une touche de crème pour une saveur riche et terreuse.",
-				"de": "Eine lebendige, samtige Rote-Bete-Suppe, gemixt mit Wurzelgemüse und einem Hauch Sahne für einen reichen, erdigen Geschmack."
-			}
-		},
-		{
-			"id": 21,
-			"name_i18n": {
-				"common": "gazpacho",
-				"es": "Gazpacho",
-				"en": "gazpacho",
-				"pt": "gaspacho",
-				"fr": "gaspacho",
-				"de": "Gazpacho"
-			},
-			"price": 8.5,
-			"cover": "/gazpacho.webp",
-			"category": {
-				"common": "soups",
-				"es": "sopas",
-				"en": "soups",
-				"pt": "sopas",
-				"fr": "soupes",
-				"de": "Suppen"
-			},
-			"description": {
-				"es": "Una sopa fría tradicional española hecha con tomates frescos y verduras.",
-				"en": "A traditional Spanish cold soup made with fresh tomatoes and vegetables.",
-				"pt": "Uma sopa fria tradicional espanhola feita com tomates frescos e vegetais.",
-				"fr": "Une soupe froide espagnole traditionnelle faite avec des tomates fraîches et des légumes.",
-				"de": "Eine traditionelle spanische kalte Suppe aus frischen Tomaten und Gemüse."
-			}
-		},
-		{
-			"id": 22,
-			"name_i18n": {
-				"common": "coleslaw",
-				"es": "Ensalada de Col",
-				"en": "coleslaw",
-				"pt": "salada de repolho",
-				"fr": "salade de chou",
-				"de": "Krautsalat"
-			},
-			"price": 3.8,
-			"cover": "/coleslaw.webp",
-			"category": {
-				"common": "sidedishes",
-				"es": "guarniciones",
-				"en": "side dishes",
-				"pt": "acompanhamentos",
-				"fr": "accompagnements",
-				"de": "Beilagen"
-			},
-			"description": {
-				"es": "Repollo y zanahorias ralladas crujientes en un aderezo cremoso y ácido, un acompañamiento refrescante para complementar cualquier comida.",
-				"en": "Crunchy shredded cabbage and carrots in a creamy, tangy dressing, a refreshing side to complement any meal.",
-				"pt": "Repolho e cenouras raladas crocantes em um molho cremoso e ácido, um acompanhamento refrescante para complementar qualquer refeição.",
-				"fr": "Chou et carottes râpés croquants dans une sauce crémeuse et acidulée, un accompagnement rafraîchissant pour compléter tout repas.",
-				"de": "Knackig geraspelter Kohl und Karotten in einem cremigen, würzigen Dressing, eine erfrischende Beilage zu jeder Mahlzeit."
-			}
-		},
-		{
-			"id": 23,
-			"name_i18n": {
-				"common": "strawberryyogurt",
-				"es": "Yogur de Fresa",
-				"en": "Strawberry Yogurt",
-				"pt": "Iogurte de Morango",
-				"fr": "Yaourt à la Fraise",
-				"de": "Erdbeerjoghurt"
-			},
-			"price": 5.5,
-			"cover": "/strawberryyogurt.webp",
-			"category": {
-				"common": "desserts",
-				"es": "postres",
-				"en": "desserts",
-				"pt": "sobremesas",
-				"fr": "desserts",
-				"de": "Desserts"
-			},
-			"description": {
-				"es": "Yogur cremoso mezclado con puré de fresa fresca, coronado con un toque de granola para un crujiente delicioso.",
-				"en": "Creamy yogurt swirled with fresh strawberry puree, topped with a sprinkle of granola for a delightful crunch.",
-				"pt": "Iogurte cremoso misturado com purê de morango fresco, coberto com um toque de granola para uma crocância deliciosa.",
-				"fr": "Yaourt crémeux mélangé à de la purée de fraise fraîche, garni d'une touche de granola pour un croquant délicieux.",
-				"de": "Cremiger Joghurt mit frischem Erdbeerpüree, garniert mit etwas Granola für einen köstlichen Crunch."
-			}
-		},
-		{
-			"id": 24,
-			"name_i18n": {
-				"common": "hamburguesapollocrujiente",
-				"es": "Hamburguesa Pollo Crujiente",
-				"en": "Hamburguesa Pollo Crujiente",
-				"pt": "Hambúrguer de Frango Crocante",
-				"fr": "Burger de Poulet Croquant",
-				"de": "Knuspriger Hähnchen-Burger"
-			},
-			"price": 12.5,
-			"cover": "/hamburguesapollocrujiente.webp",
-			"category": {
-				"common": "maincourses",
-				"es": "principales",
-				"en": "main courses",
-				"pt": "pratos principais",
-				"fr": "plats principaux",
-				"de": "Hauptgerichte"
-			},
-			"description": {
-				"es": "Una hamburguesa de pollo crujiente y jugosa servida con lechuga fresca, tomate y una salsa casera picante en un pan tostado.",
-				"en": "A juicy crispy chicken burger served with fresh lettuce, tomato, and a tangy house sauce on a toasted bun.",
-				"pt": "Um hambúrguer de frango crocante e suculento servido com alface fresca, tomate e um molho especial em pão torrado.",
-				"fr": "Un burger de poulet croustillant et juteux servi avec de la laitue fraîche, de la tomate et une sauce maison relevée dans un pain grillé.",
-				"de": "Ein saftiger, knuspriger Hähnchen-Burger, serviert mit frischem Salat, Tomate und einer würzigen Haussauce im gerösteten Brötchen."
-			}
-		},
-		{
-			"id": 25,
-			"name_i18n": {
-				"common": "icecreamballs",
-				"es": "Bolas de Helado",
-				"en": "ice-cream balls",
-				"pt": "Bolas de Sorvete",
-				"fr": "Boules de Glace",
-				"de": "Eiskugeln"
-			},
-			"price": 5.2,
-			"cover": "/icecreamballs.webp",
-			"category": {
-				"common": "desserts",
-				"es": "postres",
-				"en": "desserts",
-				"pt": "sobremesas",
-				"fr": "desserts",
-				"de": "Desserts"
-			},
-			"description": {
-				"es": "Dos bolas de helado cremoso, elige tus sabores, servidas con un chorrito de chocolate y nata montada.",
-				"en": "Two scoops of creamy ice cream, choose your flavors, served with a drizzle of chocolate sauce and whipped cream.",
-				"pt": "Duas bolas de sorvete cremoso, escolha seus sabores, servidas com calda de chocolate e chantilly.",
-				"fr": "Deux boules de glace crémeuse, choisissez vos parfums, servies avec un filet de chocolat et de la chantilly.",
-				"de": "Zwei Kugeln cremiges Eis, wählen Sie Ihre Sorten, serviert mit Schokoladensauce und Schlagsahne."
-			}
-		},
-		{
-			"id": 26,
-			"name_i18n": {
-				"common": "brownie",
-				"es": "brownie",
-				"en": "brownie",
-				"pt": "brownie",
-				"fr": "brownie",
-				"de": "Brownie"
-			},
-			"price": 4.9,
-			"cover": "/brownie.webp",
-			"category": {
-				"common": "desserts",
-				"es": "postres",
-				"en": "desserts",
-				"pt": "sobremesas",
-				"fr": "desserts",
-				"de": "Desserts"
-			},
-			"description": {
-				"es": "Brownie rico y fudgy con una capa crujiente, servido caliente con una bola de helado de vainilla.",
-				"en": "Rich, fudgy chocolate brownie with a crisp top, served warm with a scoop of vanilla ice cream.",
-				"pt": "Brownie rico e macio com uma camada crocante, servido quente com uma bola de sorvete de baunilha.",
-				"fr": "Brownie riche et fondant avec une croûte croustillante, servi chaud avec une boule de glace vanille.",
-				"de": "Saftiger, schokoladiger Brownie mit knuspriger Kruste, warm serviert mit einer Kugel Vanilleeis."
-			}
-		},
-		{
-			"id": 27,
-			"name_i18n": {
-				"common": "torrijas",
-				"es": "torrijas",
-				"en": "spanish torrijas",
-				"pt": "rabanadas espanholas",
-				"fr": "torrijas espagnoles",
-				"de": "Spanische Torrijas"
-			},
-			"price": 6.8,
-			"cover": "/torrijas.webp",
-			"category": {
-				"common": "desserts",
-				"es": "postres",
-				"en": "desserts",
-				"pt": "sobremesas",
-				"fr": "desserts",
-				"de": "Desserts"
-			},
-			"description": {
-				"es": "Torrijas tradicionales españolas empapadas en leche, infusionadas con canela y rociadas con miel para un dulce y delicioso capricho.",
-				"en": "Traditional Spanish French toast soaked in milk, infused with cinnamon, and drizzled with honey for a sweet, indulgent treat.",
-				"pt": "Rabanadas tradicionais espanholas embebidas em leite, infusionadas com canela e regadas com mel para um doce delicioso.",
-				"fr": "Torrijas espagnoles traditionnelles trempées dans du lait, infusées à la cannelle et nappées de miel pour une douceur gourmande.",
-				"de": "Traditionelle spanische Torrijas in Milch getränkt, mit Zimt aromatisiert und mit Honig beträufelt – ein süßer Genuss."
-			}
-		},
-		{
-			"id": 28,
-			"name_i18n": {
-				"common": "themedpancakes",
-				"es": "Tortitas Temáticas",
-				"en": "Character-Themed Pancakes",
-				"pt": "Panquecas Temáticas",
-				"fr": "Pancakes Thématiques",
-				"de": "Themen-Pfannkuchen"
-			},
-			"price": 5.9,
-			"cover": "/themedpancakes.webp",
-			"category": {
-				"common": "specials",
-				"es": "especiales",
-				"en": "specials",
-				"pt": "especiais",
-				"fr": "spécialités",
-				"de": "Spezialitäten"
-			},
-			"description": {
-				"es": "Tortitas esponjosas con forma de personajes divertidos, servidas con jarabe de arce y un toque de azúcar glas, perfectas para los niños.",
-				"en": "Fluffy pancakes shaped like fun characters, served with maple syrup and a sprinkle of powdered sugar, perfect for kids.",
-				"pt": "Panquecas fofas em formato de personagens divertidos, servidas com xarope de bordo e açúcar de confeiteiro, perfeitas para crianças.",
-				"fr": "Pancakes moelleux en forme de personnages amusants, servis avec du sirop d'érable et une pincée de sucre glace, parfaits pour les enfants.",
-				"de": "Lockere Pfannkuchen in lustigen Figurenformen, serviert mit Ahornsirup und Puderzucker – perfekt für Kinder."
-			}
-		},
-		{
-			"id": 29,
-			"name_i18n": {
-				"common": "chickennuggets",
-				"es": "nuggets de pollo",
-				"en": "chicken nuggets",
-				"pt": "nuggets de frango",
-				"fr": "nuggets de poulet",
-				"de": "Chicken Nuggets"
-			},
-			"price": 6.5,
-			"cover": "/chickennuggets.webp",
-			"category": {
-				"common": "kidsmenu",
-				"es": "menú infantil",
-				"en": "kids menu",
-				"pt": "menu infantil",
-				"fr": "menu enfants",
-				"de": "Kindermenü"
-			},
-			"description": {
-				"es": "Nuggets de pollo dorados y crujientes hechos con pechuga de pollo tierna, servidos con ketchup o salsa barbacoa, perfectos para los niños.",
-				"en": "Crispy, golden chicken nuggets made from tender chicken breast, served with a side of ketchup or BBQ sauce, perfect for kids.",
-				"pt": "Nuggets de frango dourados e crocantes feitos com peito de frango macio, servidos com ketchup ou molho barbecue, perfeitos para crianças.",
-				"fr": "Nuggets de poulet dorés et croustillants faits avec du blanc de poulet tendre, servis avec du ketchup ou une sauce barbecue, parfaits pour les enfants.",
-				"de": "Knusprige, goldene Chicken Nuggets aus zarter Hähnchenbrust, serviert mit Ketchup oder BBQ-Sauce – perfekt für Kinder."
-			}
-		},
-		{
-			"id": 30,
-			"name_i18n": {
-				"common": "mashedpotatoes",
-				"es": "puré de patatas",
-				"en": "mashed potatoes",
-				"pt": "purê de batatas",
-				"fr": "purée de pommes de terre",
-				"de": "Kartoffelpüree"
-			},
-			"price": 4.0,
-			"cover": "/mashedpotatoes.webp",
-			"category": {
-				"common": "sidedishes",
-				"es": "guarniciones",
-				"en": "side dishes",
-				"pt": "acompanhamentos",
-				"fr": "accompagnements",
-				"de": "Beilagen"
-			},
-			"description": {
-				"es": "Puré de patatas cremoso, batido con mantequilla y un toque de nata, sazonado a la perfección para un acompañamiento reconfortante.",
-				"en": "Creamy mashed potatoes, whipped with butter and a touch of cream, seasoned to perfection for a comforting side.",
-				"pt": "Purê de batatas cremoso, batido com manteiga e um toque de creme, temperado na medida certa para um acompanhamento reconfortante.",
-				"fr": "Purée de pommes de terre crémeuse, fouettée avec du beurre et une touche de crème, assaisonnée à la perfection pour un accompagnement réconfortant.",
-				"de": "Cremiges Kartoffelpüree, mit Butter und einem Hauch Sahne aufgeschlagen, perfekt gewürzt für eine wohltuende Beilage."
-			}
-		},
-		{
-			"id": 31,
-			"name_i18n": {
-				"common": "tacotrio",
-				"es": "mini taco trio",
-				"en": "mini taco trio",
-				"pt": "trio de mini tacos",
-				"fr": "trio de mini tacos",
-				"de": "Mini-Taco-Trio"
-			},
-			"price": 7.2,
-			"cover": "/tacotrio.webp",
-			"category": {
-				"common": "specials",
-				"es": "especiales",
-				"en": "specials",
-				"pt": "especiais",
-				"fr": "spécialités",
-				"de": "Spezialitäten"
-			},
-			"description": {
-				"es": "Tres mini tacos del tamaño de un niño rellenos de carne picada sazonada, lechuga y queso, servidos con una salsa suave al lado.",
-				"en": "Three kid-sized soft tacos filled with seasoned ground beef, lettuce, and cheese, served with a mild salsa on the side.",
-				"pt": "Três mini tacos recheados com carne moída temperada, alface e queijo, servidos com um molho suave ao lado.",
-				"fr": "Trois mini tacos garnis de bœuf haché assaisonné, de laitue et de fromage, servis avec une sauce douce à côté.",
-				"de": "Drei Mini-Tacos gefüllt mit gewürztem Hackfleisch, Salat und Käse, serviert mit einer milden Salsa."
-			}
-		},
-		{
-			"id": 32,
-			"name_i18n": {
-				"common": "huevosrotos",
-				"es": "Huevos Rotos",
-				"en": "Huevos Rotos",
-				"pt": "Ovos Rotos",
-				"fr": "Huevos Rotos",
-				"de": "Huevos Rotos"
-			},
-			"price": 9.8,
-			"cover": "/huevosrotos.webp",
-			"category": {
-				"common": "maincourses",
-				"es": "principales",
-				"en": "main courses",
-				"pt": "pratos principais",
-				"fr": "plats principaux",
-				"de": "Hauptgerichte"
-			},
-			"description": {
-				"es": "Papas fritas crujientes cubiertas con huevos fritos perfectamente cocidos, rotos para crear un plato rico y sabroso, a menudo servido con jamón.",
-				"en": "Crispy fried potatoes topped with perfectly fried eggs, broken to create a rich, savory dish, often served with jamón.",
-				"pt": "Batatas fritas crocantes cobertas com ovos fritos perfeitamente cozidos, quebrados para criar um prato rico e saboroso, frequentemente servido com presunto.",
-				"fr": "Pommes de terre frites croustillantes recouvertes d'œufs frits parfaitement cuits, cassés pour créer un plat riche et savoureux, souvent servi avec du jambon.",
-				"de": "Knusprige Bratkartoffeln, belegt mit perfekt gebratenen Eiern, aufgebrochen für ein reichhaltiges, herzhaftes Gericht, oft mit Schinken serviert."
-			}
-		},
-		{
-			"id": 33,
-			"name_i18n": {
-				"common": "herosliders",
-				"es": "superhéroes sliders",
-				"en": "superhero sliders",
-				"pt": "mini hambúrgueres de super-herói",
-				"fr": "mini burgers de super-héros",
-				"de": "Superhelden-Slider"
-			},
-			"price": 7.8,
-			"cover": "/herosliders.webp",
-			"category": {
-				"common": "specials",
-				"es": "especiales",
-				"en": "specials",
-				"pt": "especiais",
-				"fr": "spécialités",
-				"de": "Spezialitäten"
-			},
-			"description": {
-				"es": "Un par de mini hamburguesas 'Captain’s Sliders' en panecillos coloridos, cubiertas con queso y servidas con una guarnición de patatas fritas crujientes o palitos de verduras para una comida divertida y amigable para los niños.",
-				"en": "A pair of mini 'Captain’s Sliders' burgers on colorful buns, topped with cheese and served with a side of crispy fries or veggie sticks for a fun, kid-friendly meal.",
-				"pt": "Um par de mini hambúrgueres 'Captain’s Sliders' em pãezinhos coloridos, cobertos com queijo e servidos com batatas fritas crocantes ou palitos de legumes para uma refeição divertida e amigável para crianças.",
-				"fr": "Une paire de mini burgers 'Captain’s Sliders' sur des petits pains colorés, garnis de fromage et servis avec des frites croustillantes ou des bâtonnets de légumes pour un repas amusant et adapté aux enfants.",
-				"de": "Ein Paar Mini-Burger 'Captain’s Sliders' auf bunten Brötchen, mit Käse belegt und serviert mit knusprigen Pommes oder Gemüsesticks – ein lustiges, kinderfreundliches Gericht."
-			}
-		},
-		{
-			"id": 34,
-			"name_i18n": {
-				"common": "redwine",
-				"es": "Copa de Vino Tinto",
-				"en": "glass of red wine",
-				"pt": "taça de vinho tinto",
-				"fr": "verre de vin rouge",
-				"de": "Glas Rotwein"
-			},
-			"price": 4.5,
-			"cover": "/redwine.webp",
-			"category": {
-				"common": "drinks",
-				"es": "bebidas",
-				"en": "drinks",
-				"pt": "bebidas",
-				"fr": "boissons",
-				"de": "Getränke"
-			},
-			"description": {
-				"es": "Un vino tinto suave y robusto, servido en copa de 175ml, con notas ricas a bayas y un acabado aterciopelado.",
-				"en": "A smooth and robust red wine, served in a 175ml glass, with rich berry notes and a velvety finish.",
-				"pt": "Um vinho tinto suave e robusto, servido em taça de 175ml, com notas ricas de frutas vermelhas e um final aveludado.",
-				"fr": "Un vin rouge doux et robuste, servi dans un verre de 175 ml, avec des notes riches de baies et une finition veloutée.",
-				"de": "Ein weicher und kräftiger Rotwein, serviert im 175ml-Glas, mit reichen Beerennoten und einem samtigen Abgang."
-			}
-		},
-		{
-			"id": 35,
-			"name_i18n": {
-				"common": "cabreiroawater",
-				"es": "Agua Cabreiroa",
-				"en": "Cabreiroa Water",
-				"pt": "Água Cabreiroa",
-				"fr": "Eau Cabreiroa",
-				"de": "Cabreiroa Wasser"
-			},
-			"price": 2.0,
-			"cover": "/cabreiroawater.webp",
-			"category": {
-				"common": "drinks",
-				"es": "bebidas",
-				"en": "drinks",
-				"pt": "bebidas",
-				"fr": "boissons",
-				"de": "Getränke"
-			},
-			"description": {
-				"es": "Agua mineral pura y natural de Galicia, España, con mineralización equilibrada para una hidratación refrescante.",
-				"en": "Pure, natural mineral water from Galicia, Spain, with balanced mineralization for refreshing hydration.",
-				"pt": "Água mineral pura e natural da Galícia, Espanha, com mineralização equilibrada para uma hidratação refrescante.",
-				"fr": "Eau minérale pure et naturelle de Galice, Espagne, avec une minéralisation équilibrée pour une hydratation rafraîchissante.",
-				"de": "Reines, natürliches Mineralwasser aus Galicien, Spanien, mit ausgewogener Mineralisierung für erfrischende Hydration."
-			}
-		},
-		{
-			"id": 36,
-			"name_i18n": {
-				"common": "cocacola",
-				"es": "Coca Cola",
-				"en": "Coca Cola",
-				"pt": "Coca Cola",
-				"fr": "Coca Cola",
-				"de": "Coca Cola"
-			},
-			"price": 2.5,
-			"cover": "/cocacola.webp",
-			"category": {
-				"common": "drinks",
-				"es": "bebidas",
-				"en": "drinks",
-				"pt": "bebidas",
-				"fr": "boissons",
-				"de": "Getränke"
-			},
-			"description": {
-				"es": "Coca-Cola clásica en botella de cristal de 350ml, que ofrece un sabor icónico y refrescante con un equilibrio perfecto de dulzura y burbujas.",
-				"en": "Classic Coca-Cola in a 350ml glass bottle, offering a refreshing, iconic cola taste with a perfect balance of sweetness and fizz.",
-				"pt": "Coca-Cola clássica em garrafa de vidro de 350ml, oferecendo um sabor icônico e refrescante com equilíbrio perfeito de doçura e efervescência.",
-				"fr": "Coca-Cola classique en bouteille de 350ml, offrant un goût de cola rafraîchissant et iconique avec un équilibre parfait entre douceur et pétillant.",
-				"de": "Klassische Coca-Cola in der 350ml-Glasflasche, bietet einen erfrischenden, ikonischen Cola-Geschmack mit perfekter Balance aus Süße und Spritzigkeit."
-			}
-		},
-		{
-			"id": 37,
-			"name_i18n": {
-				"common": "applespritz",
-				"es": "Spritz de Manzana",
-				"en": "Apple Spritz",
-				"pt": "Spritz de Maçã",
-				"fr": "Spritz à la Pomme",
-				"de": "Apfel Spritz"
-			},
-			"price": 3.5,
-			"cover": "/applespritz.webp",
-			"category": {
-				"common": "drinks",
-				"es": "bebidas",
-				"en": "drinks",
-				"pt": "bebidas",
-				"fr": "boissons",
-				"de": "Getränke"
-			},
-			"description": {
-				"es": "Un refrescante spritz de manzana en botella de 350ml, que combina notas de manzana crujiente con un ligero burbujeo.",
-				"en": "A refreshing apple-flavored spritz in a 350ml bottle, combining crisp apple notes with a light, fizzy sparkle.",
-				"pt": "Um refrescante spritz de maçã em garrafa de 350ml, que combina notas de maçã crocante com uma leve efervescência.",
-				"fr": "Un spritz à la pomme rafraîchissant en bouteille de 350ml, combinant des notes de pomme croquante avec une légère effervescence.",
-				"de": "Ein erfrischender Apfel-Spritz in der 350ml-Flasche, kombiniert knackige Apfelnoten mit einer leichten Spritzigkeit."
-			}
-		},
-		{
-			"id": 38,
-			"name_i18n": {
-				"common": "bakedbeans",
-				"es": "Alubias al Horno",
-				"en": "Baked Beans",
-				"pt": "Feijão Assado",
-				"fr": "Haricots au Four",
-				"de": "Gebratene Bohnen"
-			},
-			"price": 3.9,
-			"cover": "/bakedbeans.webp",
-			"category": {
-				"common": "sidedishes",
-				"es": "guarniciones",
-				"en": "side dishes",
-				"pt": "acompanhamentos",
-				"fr": "accompagnements",
-				"de": "Beilagen"
-			},
-			"description": {
-				"es": "Alubias horneadas cocidas lentamente en una rica y sabrosa salsa de tomate, que ofrecen un acompañamiento abundante y reconfortante.",
-				"en": "Slow-cooked baked beans in a rich, savory tomato sauce, offering a hearty and comforting side dish.",
-				"pt": "Feijão assado lentamente em um molho de tomate rico e saboroso, oferecendo um acompanhamento farto e reconfortante.",
-				"fr": "Haricots cuits au four lentement dans une sauce tomate riche et savoureuse, offrant un accompagnement copieux et réconfortant.",
-				"de": "Langsam gebackene Bohnen in einer reichhaltigen, würzigen Tomatensauce – eine herzhafte und tröstliche Beilage."
-			}
-		},
-		{
-			"id": 39,
-			"name_i18n": {
-				"common": "vegetablesoup",
-				"es": "Sopa de Verduras",
-				"en": "vegetable soup",
-				"pt": "Sopa de Legumes",
-				"fr": "Soupe de Légumes",
-				"de": "Gemüsesuppe"
-			},
-			"price": 6.5,
-			"cover": "/vegetablesoup.webp",
-			"category": {
-				"common": "soups",
-				"es": "sopas",
-				"en": "soups",
-				"pt": "sopas",
-				"fr": "soupes",
-				"de": "Suppen"
-			},
-			"description": {
-				"es": "Una abundante mezcla de verduras frescas de temporada, cocidas a fuego lento en un caldo sabroso, perfecta para una comida reconfortante.",
-				"en": "A hearty blend of fresh seasonal vegetables, simmered in a savory broth, perfect for a comforting meal.",
-				"pt": "Uma mistura farta de legumes frescos da estação, cozidos lentamente em um caldo saboroso, perfeita para uma refeição reconfortante.",
-				"fr": "Un mélange copieux de légumes frais de saison, mijotés dans un bouillon savoureux, parfait pour un repas réconfortant.",
-				"de": "Eine herzhafte Mischung aus frischem saisonalem Gemüse, langsam in einer würzigen Brühe gekocht – perfekt für eine wohltuende Mahlzeit."
-			}
-		},
-		{
-			"id": 40,
-			"name_i18n": {
-				"common": "patatasbravas",
-				"es": "patatas bravas",
-				"en": "patatas bravas",
-				"pt": "batatas bravas",
-				"fr": "patatas bravas",
-				"de": "Patatas Bravas"
-			},
-			"price": 8.5,
-			"cover": "/patatasbravas.webp",
-			"category": {
-				"common": "appetizers",
-				"es": "entrantes",
-				"en": "appetizers",
-				"pt": "entradas",
-				"fr": "entrées",
-				"de": "Vorspeisen"
-			},
-			"description": {
-				"es": "Patatas fritas crujientes servidas con una salsa de tomate picante y alioli cremoso, perfectas para compartir.",
-				"en": "Crispy fried potatoes served with a spicy tomato sauce and creamy aioli, perfect for sharing.",
-				"pt": "Batatas fritas crocantes servidas com um molho de tomate picante e aioli cremoso, perfeitas para compartilhar.",
-				"fr": "Pommes de terre frites croustillantes servies avec une sauce tomate épicée et de l'aïoli crémeux, parfaites à partager.",
-				"de": "Knusprige Bratkartoffeln, serviert mit scharfer Tomatensauce und cremigem Aioli – perfekt zum Teilen."
-			}
-		},
-		{
-			"id": 41,
-			"name_i18n": {
-				"common": "macandcheese",
-				"es": "Macarrones con Queso",
-				"en": "Mac and Cheese",
-				"pt": "Macarrão com Queijo",
-				"fr": "Macaroni au Fromage",
-				"de": "Mac and Cheese"
-			},
-			"price": 6.8,
-			"cover": "/macandcheese.webp",
-			"category": {
-				"common": "kidsmenu",
-				"es": "menú infantil",
-				"en": "kids menu",
-				"pt": "menu infantil",
-				"fr": "menu enfants",
-				"de": "Kindermenü"
-			},
-			"description": {
-				"es": "Macarrones cremosos y quesosos al horno con una corteza dorada de cheddar, un clásico amigable para los niños que es rico y reconfortante.",
-				"en": "Creamy, cheesy macaroni baked with a golden cheddar crust, a kid-friendly classic that's rich and comforting.",
-				"pt": "Macarrão cremoso e com queijo assado com uma crosta dourada de cheddar, um clássico para crianças que é rico e reconfortante.",
-				"fr": "Macaroni crémeux et fromager gratiné avec une croûte dorée de cheddar, un classique pour enfants riche et réconfortant.",
-				"de": "Cremige, käsige Makkaroni, gebacken mit einer goldenen Cheddar-Kruste – ein kinderfreundlicher Klassiker, der reichhaltig und tröstlich ist."
-			}
-		},
-		{
-			"id": 42,
-			"name_i18n": {
-				"common": "fantadenaranja",
-				"es": "Fanta de Naranja",
-				"en": "Fanta de Naranja",
-				"pt": "Fanta Laranja",
-				"fr": "Fanta Orange",
-				"de": "Fanta Orange"
-			},
-			"price": 2.5,
-			"cover": "/fantadenaranja.webp",
-			"category": {
-				"common": "drinks",
-				"es": "bebidas",
-				"en": "drinks",
-				"pt": "bebidas",
-				"fr": "boissons",
-				"de": "Getränke"
-			},
-			"description": {
-				"es": "Fanta de naranja refrescante en botella de 350ml, repleta de sabor cítrico vibrante y un acabado burbujeante.",
-				"en": "Refreshing orange Fanta in a 350ml bottle, bursting with zesty citrus flavor and a fizzy finish.",
-				"pt": "Fanta laranja refrescante em garrafa de 350ml, cheia de sabor cítrico vibrante e um final borbulhante.",
-				"fr": "Fanta orange rafraîchissante en bouteille de 350ml, pleine de saveur d'agrumes vive et une finale pétillante.",
-				"de": "Erfrischende Fanta Orange in der 350ml-Flasche, voller spritzigem Zitrusgeschmack und prickelndem Abgang."
-			}
-		}
-	]
+  "siteCover": "/items/applespritz.webp",
+  "siteWelcome": {
+    "es": "testl",
+    "en": "Welcome to",
+    "pt": "Bem-vindo a",
+    "fr": "Bienvenue à",
+    "de": "Willkommen bei"
+  },
+  "siteName": {
+    "es": "Mordisco vibrante",
+    "en": "Neon Nibble",
+    "pt": "Mordida Neon",
+    "fr": "Morsure Néon",
+    "de": "Neon Biss"
+  },
+  "siteDescription": {
+    "es": "El Bar de Alfonso es un restaurante familiar que ofrece comida casera y un ambiente acogedor.",
+    "en": "Alfonso's Bar is a family restaurant that offers homemade food and a cozy atmosphere.",
+    "pt": "O Bar do Alfonso é um restaurante familiar que oferece comida caseira e um ambiente acolhedor.",
+    "fr": "Le Bar d'Alfonso est un restaurant familial qui propose une cuisine maison et une ambiance chaleureuse.",
+    "de": "Alfonso's Bar ist ein Familienrestaurant, das hausgemachtes Essen und eine gemütliche Atmosphäre bietet."
+  },
+  "categories": [
+    {
+      "order": 1,
+      "slug": "appetizers",
+      "es": "entrantes",
+      "en": "appetizers",
+      "pt": "entradas",
+      "fr": "entrées",
+      "de": "Vorspeisen",
+      "cover": "/categories/appetizers.webp"
+    },
+    {
+      "order": 2,
+      "slug": "salads",
+      "es": "ensaladas",
+      "en": "salads",
+      "pt": "saladas",
+      "fr": "salades",
+      "de": "Salate",
+      "cover": "/categories/salads.webp"
+    },
+    {
+      "order": 3,
+      "slug": "soups",
+      "es": "sopas",
+      "en": "soups",
+      "pt": "sopas",
+      "fr": "soupes",
+      "de": "Suppen",
+      "cover": "/categories/soups.webp"
+    },
+    {
+      "order": 4,
+      "slug": "maincourses",
+      "es": "principales",
+      "en": "main courses",
+      "pt": "pratos principais",
+      "fr": "plats principaux",
+      "de": "Hauptgerichte",
+      "cover": "/categories/maincourses.webp"
+    },
+    {
+      "order": 5,
+      "slug": "sidedishes",
+      "es": "guarniciones",
+      "en": "side dishes",
+      "pt": "acompanhamentos",
+      "fr": "accompagnements",
+      "de": "Beilagen",
+      "cover": "/categories/sidedishes.webp"
+    },
+    {
+      "order": 6,
+      "slug": "kidsmenu",
+      "es": "menú infantil",
+      "en": "kids menu",
+      "pt": "menu infantil",
+      "fr": "menu enfants",
+      "de": "Kindermenü",
+      "cover": "/categories/kidsmenu.webp"
+    },
+    {
+      "order": 7,
+      "slug": "desserts",
+      "es": "postres",
+      "en": "desserts",
+      "pt": "sobremesas",
+      "fr": "desserts",
+      "de": "Desserts",
+      "cover": "/categories/desserts.webp"
+    },
+    {
+      "order": 8,
+      "slug": "specials",
+      "es": "especiales",
+      "en": "specials",
+      "pt": "especiais",
+      "fr": "spécialités",
+      "de": "Spezialitäten",
+      "cover": "/categories/specials.webp"
+    },
+    {
+      "order": 9,
+      "slug": "drinks",
+      "es": "bebidas",
+      "en": "drinks",
+      "pt": "bebidas",
+      "fr": "boissons",
+      "de": "Getränke",
+      "cover": "/categories/drinks.webp"
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name_i18n": {
+        "common": "blackrice",
+        "es": "Arroz Negro con Zamburiñas",
+        "en": "Black Rice",
+        "pt": "Arroz Negro com Vieira",
+        "fr": "Riz Noir aux Pétoncles",
+        "de": "Schwarzer Reis mit Jakobsmuscheln"
+      },
+      "price": 16.9,
+      "cover": "/blackrice.webp",
+      "category": {
+        "common": "maincourses",
+        "es": "principales",
+        "en": "main courses",
+        "pt": "pratos principais",
+        "fr": "plats principaux",
+        "de": "Hauptgerichte"
+      },
+      "description": {
+        "es": "Arroz negro infusionado con tinta de calamar, coronado con zamburiñas tiernas y un toque de alioli, lleno de sabores costeros.",
+        "en": "Black rice infused with squid ink, topped with tender scallops and a touch of aioli, bursting with coastal flavors.",
+        "pt": "Arroz negro infusionado com tinta de lula, coberto com vieiras tenras e um toque de aioli, repleto de sabores do mar.",
+        "fr": "Riz noir infusé à l'encre de seiche, garni de pétoncles tendres et d'une touche d'aïoli, plein de saveurs marines.",
+        "de": "Schwarzer Reis mit Tintenfischtinte, garniert mit zarten Jakobsmuscheln und einem Hauch Aioli, voller Küstenaromen."
+      }
+    },
+    {
+      "id": 1,
+      "name_i18n": {
+        "common": "orangejuice",
+        "es": "Zumo de Naranja Natural",
+        "en": "Natural Orange Juice",
+        "pt": "Suco de Laranja Natural",
+        "fr": "Jus d'Orange Naturel",
+        "de": "Frischer Orangensaft"
+      },
+      "price": 3.2,
+      "cover": "/orangejuice.webp",
+      "category": {
+        "common": "drinks",
+        "es": "bebidas",
+        "en": "drinks",
+        "pt": "bebidas",
+        "fr": "boissons",
+        "de": "Getränke"
+      },
+      "description": {
+        "es": "Zumo de naranja natural recién exprimido en vaso de 350ml, rebosante de sabor cítrico dulce y ácido.",
+        "en": "Freshly squeezed natural orange juice in a 350ml glass, bursting with sweet and tangy citrus flavor.",
+        "pt": "Suco de laranja natural recém-espremido em copo de 350ml, repleto de sabor cítrico doce e ácido.",
+        "fr": "Jus d'orange naturel fraîchement pressé dans un verre de 350ml, débordant de saveur d'agrumes douce et acidulée.",
+        "de": "Frisch gepresster Orangensaft im 350ml-Glas, voller süßer und herber Zitrusaromen."
+      }
+    },
+    {
+      "id": 2,
+      "name_i18n": {
+        "common": "cheesepizza",
+        "es": "Pizza de Queso",
+        "en": "Cheese Pizza",
+        "pt": "Pizza de Queijo",
+        "fr": "Pizza au Fromage",
+        "de": "Käsepizza"
+      },
+      "price": 7.5,
+      "cover": "/cheesepizza.webp",
+      "category": {
+        "common": "kidsmenu",
+        "es": "menú infantil",
+        "en": "kids menu",
+        "pt": "menu infantil",
+        "fr": "menu enfants",
+        "de": "Kindermenü"
+      },
+      "description": {
+        "es": "Una pizza amigable para niños con una masa suave, cubierta con salsa de tomate rica y queso mozzarella derretido.",
+        "en": "A kid-friendly pizza with a soft crust, topped with rich tomato sauce and melted mozzarella cheese.",
+        "pt": "Uma pizza para crianças com massa macia, coberta com molho de tomate rico e queijo mussarela derretido.",
+        "fr": "Une pizza adaptée aux enfants avec une pâte moelleuse, garnie de sauce tomate riche et de mozzarella fondue.",
+        "de": "Eine kinderfreundliche Pizza mit weichem Teig, belegt mit reichhaltiger Tomatensauce und geschmolzenem Mozzarella."
+      }
+    },
+    {
+      "id": 3,
+      "name_i18n": {
+        "common": "pulpobrasa",
+        "es": "Pulpo a la Brasa",
+        "en": "Pulpo a la Brasa",
+        "pt": "Polvo Grelhado",
+        "fr": "Poulpe Grillé",
+        "de": "Gegrillter Oktopus"
+      },
+      "price": 18.9,
+      "cover": "/pulpoalabrasa.webp",
+      "category": {
+        "common": "maincourses",
+        "es": "principales",
+        "en": "main courses",
+        "pt": "pratos principais",
+        "fr": "plats principaux",
+        "de": "Hauptgerichte"
+      },
+      "description": {
+        "es": "Pulpo tierno a la parrilla, sazonado con pimentón ahumado y servido con patatas asadas y un chorrito de aceite de oliva.",
+        "en": "Tender grilled octopus, seasoned with smoked paprika and served with roasted potatoes and a drizzle of olive oil.",
+        "pt": "Polvo tenro grelhado, temperado com páprica defumada e servido com batatas assadas e um fio de azeite.",
+        "fr": "Poulpe tendre grillé, assaisonné de paprika fumé et servi avec des pommes de terre rôties et un filet d'huile d'olive.",
+        "de": "Zarter gegrillter Oktopus, gewürzt mit geräuchertem Paprika und serviert mit Ofenkartoffeln und einem Schuss Olivenöl."
+      }
+    },
+    {
+      "id": 4,
+      "name_i18n": {
+        "common": "avocadosalad",
+        "es": "Ensalada de Aguacate",
+        "en": "Avocado Salad",
+        "pt": "Salada de Abacate",
+        "fr": "Salade d'Avocat",
+        "de": "Avocadosalat"
+      },
+      "price": 8.5,
+      "cover": "/avocadosalad.webp",
+      "category": {
+        "common": "salads",
+        "es": "ensaladas",
+        "en": "salads",
+        "pt": "saladas",
+        "fr": "salades",
+        "de": "Salate"
+      },
+      "description": {
+        "es": "Una fresca y deliciosa ensalada de aguacate, ideal para acompañar cualquier comida.",
+        "en": "A fresh and delicious avocado salad, perfect to accompany any meal.",
+        "pt": "Uma salada de abacate fresca e deliciosa, perfeita para acompanhar qualquer refeição.",
+        "fr": "Une salade d'avocat fraîche et délicieuse, parfaite pour accompagner n'importe quel repas.",
+        "de": "Ein frischer und köstlicher Avocadosalat, perfekt als Beilage zu jeder Mahlzeit."
+      }
+    },
+    {
+      "id": 5,
+      "name_i18n": {
+        "common": "frenchfries",
+        "es": "Patatas Fritas",
+        "en": "Side French Fries",
+        "pt": "Batatas Fritas",
+        "fr": "Frites",
+        "de": "Pommes Frites"
+      },
+      "price": 3.5,
+      "cover": "/frenchfries.webp",
+      "category": {
+        "common": "sidedishes",
+        "es": "guarniciones",
+        "en": "side dishes",
+        "pt": "acompanhamentos",
+        "fr": "accompagnements",
+        "de": "Beilagen"
+      },
+      "description": {
+        "es": "Patatas fritas doradas y crujientes, perfectamente sazonadas y servidas calientes, ideales como acompañamiento o snack.",
+        "en": "Golden, crispy French fries, perfectly seasoned and served hot, ideal as a side or snack.",
+        "pt": "Batatas fritas douradas e crocantes, perfeitamente temperadas e servidas quentes, ideais como acompanhamento ou lanche.",
+        "fr": "Frites dorées et croustillantes, parfaitement assaisonnées et servies chaudes, idéales en accompagnement ou en snack.",
+        "de": "Goldene, knusprige Pommes frites, perfekt gewürzt und heiß serviert, ideal als Beilage oder Snack."
+      }
+    },
+    {
+      "id": 6,
+      "name_i18n": {
+        "common": "vegetablemedley",
+        "es": "Mezcla de Verduras",
+        "en": "Vegetable Medley",
+        "pt": "Mix de Legumes",
+        "fr": "Mélange de Légumes",
+        "de": "Gemüsemischung"
+      },
+      "price": 4.5,
+      "cover": "/vegetablemedley.webp",
+      "category": {
+        "common": "sidedishes",
+        "es": "guarniciones",
+        "en": "side dishes",
+        "pt": "acompanhamentos",
+        "fr": "accompagnements",
+        "de": "Beilagen"
+      },
+      "description": {
+        "es": "Una mezcla colorida de verduras de temporada al vapor, ligeramente sazonadas y rociadas con aceite de oliva para un acompañamiento saludable y vibrante.",
+        "en": "A colorful mix of steamed seasonal vegetables, lightly seasoned and drizzled with olive oil for a healthy, vibrant side.",
+        "pt": "Uma mistura colorida de legumes sazonais cozidos no vapor, levemente temperados e regados com azeite para um acompanhamento saudável e vibrante.",
+        "fr": "Un mélange coloré de légumes de saison cuits à la vapeur, légèrement assaisonnés et arrosés d'huile d'olive pour un accompagnement sain et vibrant.",
+        "de": "Eine bunte Mischung aus gedämpftem saisonalem Gemüse, leicht gewürzt und mit Olivenöl beträufelt, für eine gesunde, lebendige Beilage."
+      }
+    },
+    {
+      "id": 7,
+      "name_i18n": {
+        "common": "sevenup",
+        "es": "Seven Up",
+        "en": "Seven Up",
+        "pt": "Seven Up",
+        "fr": "Seven Up",
+        "de": "Seven Up"
+      },
+      "price": 2.5,
+      "cover": "/sevenup.webp",
+      "category": {
+        "common": "drinks",
+        "es": "bebidas",
+        "en": "drinks",
+        "pt": "bebidas",
+        "fr": "boissons",
+        "de": "Getränke"
+      },
+      "description": {
+        "es": "Seven Up crujiente y refrescante en botella de 350ml, con un vibrante sabor a limón-lima y un toque efervescente.",
+        "en": "Crisp and refreshing Seven Up in a 350ml bottle, with a zesty lemon-lime flavor and bubbly finish.",
+        "pt": "Seven Up crocante e refrescante em garrafa de 350ml, com um sabor vibrante de limão e um toque efervescente.",
+        "fr": "Seven Up pétillant et rafraîchissant en bouteille de 350ml, avec une saveur vive de citron-lime et une touche effervescente.",
+        "de": "Knackiges und erfrischendes Seven Up in der 350ml-Flasche, mit spritzigem Zitronen-Limetten-Geschmack und prickelndem Abgang."
+      }
+    },
+    {
+      "id": 8,
+      "name_i18n": {
+        "common": "beer",
+        "es": "Cerveza",
+        "en": "Beer",
+        "pt": "Cerveja",
+        "fr": "Bière",
+        "de": "Bier"
+      },
+      "price": 3.0,
+      "cover": "/beer.webp",
+      "category": {
+        "common": "drinks",
+        "es": "bebidas",
+        "en": "drinks",
+        "pt": "bebidas",
+        "fr": "boissons",
+        "de": "Getränke"
+      },
+      "description": {
+        "es": "Una cerveza de barril refrescante, elaborada con lúpulo y cebada de calidad, que ofrece un sabor fresco y equilibrado.",
+        "en": "A refreshing draft beer, brewed with quality hops and barley, offering a crisp and balanced flavor.",
+        "pt": "Uma cerveja de barril refrescante, feita com lúpulo e cevada de qualidade, que oferece um sabor fresco e equilibrado.",
+        "fr": "Une bière pression rafraîchissante, brassée avec du houblon et de l'orge de qualité, offrant une saveur fraîche et équilibrée.",
+        "de": "Ein erfrischendes Fassbier, gebraut mit hochwertigem Hopfen und Gerste, bietet einen frischen und ausgewogenen Geschmack."
+      }
+    },
+    {
+      "id": 9,
+      "name_i18n": {
+        "common": "aquarius",
+        "es": "Aquarius de Limón",
+        "en": "Lemon Aquarius",
+        "pt": "Aquarius de Limão",
+        "fr": "Aquarius Citron",
+        "de": "Aquarius Zitrone"
+      },
+      "price": 2.8,
+      "cover": "/aquarius.webp",
+      "category": {
+        "common": "drinks",
+        "es": "bebidas",
+        "en": "drinks",
+        "pt": "bebidas",
+        "fr": "boissons",
+        "de": "Getränke"
+      },
+      "description": {
+        "es": "Aquarius con sabor a limón en botella de 350ml, una bebida refrescante sin gas con electrolitos para una hidratación óptima.",
+        "en": "Zesty lemon-flavored Aquarius in a 350ml bottle, a refreshing non-carbonated drink with electrolytes for hydration.",
+        "pt": "Aquarius com sabor a limão em garrafa de 350ml, uma bebida refrescante sem gás com eletrólitos para hidratação ideal.",
+        "fr": "Aquarius saveur citron en bouteille de 350ml, une boisson rafraîchissante sans gaz avec électrolytes pour une hydratation optimale.",
+        "de": "Aquarius mit Zitronengeschmack in der 350ml-Flasche, ein erfrischendes, kohlensäurefreies Getränk mit Elektrolyten für optimale Hydration."
+      }
+    },
+    {
+      "id": 10,
+      "name_i18n": {
+        "common": "chessetable",
+        "es": "Tabla de quesos",
+        "en": "Cheese Table",
+        "pt": "Táboa de Queijos",
+        "fr": "Table de Fromages",
+        "de": "Käseplatte"
+      },
+      "price": 12.9,
+      "cover": "/chessetable.webp",
+      "category": {
+        "common": "appetizers",
+        "es": "entrantes",
+        "en": "appetizers",
+        "pt": "entradas",
+        "fr": "entrées",
+        "de": "Vorspeisen"
+      },
+      "description": {
+        "es": "Una deliciosa selección de quesos, perfecta para cualquier reunión.",
+        "en": "A delicious selection of cheeses, perfect for any gathering.",
+        "pt": "Uma deliciosa seleção de queijos, perfeita para qualquer reunião.",
+        "fr": "Une délicieuse sélection de fromages, parfaite pour tout rassemblement.",
+        "de": "Eine köstliche Auswahl an Käsesorten, perfekt für jede Zusammenkunft."
+      }
+    },
+    {
+      "id": 11,
+      "name_i18n": {
+        "common": "creoleempanada",
+        "es": "Empanada Criolla",
+        "en": "Creole Empanada",
+        "pt": "Empanada Crioula",
+        "fr": "Empanada Créole",
+        "de": "Kreolische Empanada"
+      },
+      "price": 3.5,
+      "cover": "/creoleempanada.webp",
+      "category": {
+        "common": "appetizers",
+        "es": "entrantes",
+        "en": "appetizers",
+        "pt": "entradas",
+        "fr": "entrées",
+        "de": "Vorspeisen"
+      },
+      "description": {
+        "es": "Una empanada tradicional criolla con un relleno sabroso y auténtico.",
+        "en": "A traditional Creole empanada with a flavorful and authentic filling.",
+        "pt": "Uma empanada tradicional crioula com um recheio saboroso e autêntico.",
+        "fr": "Une empanada créole traditionnelle avec une garniture savoureuse et authentique.",
+        "de": "Eine traditionelle kreolische Empanada mit einer würzigen und authentischen Füllung."
+      }
+    },
+    {
+      "id": 12,
+      "name_i18n": {
+        "common": "cesarsalad",
+        "es": "Ensalada César",
+        "en": "Cesar Salad",
+        "pt": "Salada Caesar",
+        "fr": "Salade Caesar",
+        "de": "Caesar Salat"
+      },
+      "price": 8.9,
+      "cover": "/cesarsalad.webp",
+      "category": {
+        "common": "salads",
+        "es": "ensaladas",
+        "en": "salads",
+        "pt": "saladas",
+        "fr": "salades",
+        "de": "Salate"
+      },
+      "description": {
+        "es": "Lechuga romana crujiente mezclada con aderezo César cremoso, coronada con picatostes, virutas de parmesano y pollo a la parrilla opcional.",
+        "en": "Crisp romaine lettuce tossed with creamy Cesar dressing, topped with croutons, parmesan shavings, and optional grilled chicken.",
+        "pt": "Alface romana crocante misturada com molho Caesar cremoso, coberta com croutons, lascas de parmesão e frango grelhado opcional.",
+        "fr": "Laitue romaine croquante mélangée à une sauce Caesar crémeuse, garnie de croûtons, copeaux de parmesan et poulet grillé en option.",
+        "de": "Knackiger Römersalat mit cremigem Caesar-Dressing, garniert mit Croutons, Parmesanspänen und optional gegrilltem Hähnchen."
+      }
+    },
+    {
+      "id": 13,
+      "name_i18n": {
+        "common": "whitewine",
+        "es": "Copa de Vino Blanco",
+        "en": "Glass of White Wine",
+        "pt": "Taça de Vinho Branco",
+        "fr": "Verre de Vin Blanc",
+        "de": "Glas Weißwein"
+      },
+      "price": 4.5,
+      "cover": "/whitewine.webp",
+      "category": {
+        "common": "drinks",
+        "es": "bebidas",
+        "en": "drinks",
+        "pt": "bebidas",
+        "fr": "boissons",
+        "de": "Getränke"
+      },
+      "description": {
+        "es": "Un vino blanco fresco y crujiente, servido en copa de 175ml, con vibrantes notas de cítricos y manzana verde.",
+        "en": "A crisp and refreshing white wine, served in a 175ml glass, with vibrant citrus and green apple notes.",
+        "pt": "Um vinho branco fresco e crocante, servido em taça de 175ml, com notas vibrantes de cítricos e maçã verde.",
+        "fr": "Un vin blanc frais et croquant, servi dans un verre de 175ml, avec des notes vives d'agrumes et de pomme verte.",
+        "de": "Ein frischer und knackiger Weißwein, serviert im 175ml-Glas, mit lebendigen Zitrus- und grünen Apfelnoten."
+      }
+    },
+    {
+      "id": 20,
+      "name_i18n": {
+        "common": "beetrootsoup",
+        "es": "Sopa de Remolacha",
+        "en": "Beetroot Soup",
+        "pt": "Sopa de Beterraba",
+        "fr": "Soupe de Betterave",
+        "de": "Rote-Bete-Suppe"
+      },
+      "price": 7.0,
+      "cover": "/beetrootsoup.webp",
+      "category": {
+        "common": "soups",
+        "es": "sopas",
+        "en": "soups",
+        "pt": "sopas",
+        "fr": "soupes",
+        "de": "Suppen"
+      },
+      "description": {
+        "es": "Una sopa de remolacha vibrante y aterciopelada, mezclada con verduras de raíz y un toque de crema para un sabor rico y terroso.",
+        "en": "A vibrant, velvety beetroot soup, blended with root vegetables and a hint of cream for a rich, earthy flavor.",
+        "pt": "Uma sopa de beterraba vibrante e aveludada, misturada com vegetais de raiz e um toque de creme para um sabor rico e terroso.",
+        "fr": "Une soupe de betterave vibrante et veloutée, mélangée à des légumes racines et une touche de crème pour une saveur riche et terreuse.",
+        "de": "Eine lebendige, samtige Rote-Bete-Suppe, gemixt mit Wurzelgemüse und einem Hauch Sahne für einen reichen, erdigen Geschmack."
+      }
+    },
+    {
+      "id": 21,
+      "name_i18n": {
+        "common": "gazpacho",
+        "es": "Gazpacho",
+        "en": "gazpacho",
+        "pt": "gaspacho",
+        "fr": "gaspacho",
+        "de": "Gazpacho"
+      },
+      "price": 8.5,
+      "cover": "/gazpacho.webp",
+      "category": {
+        "common": "soups",
+        "es": "sopas",
+        "en": "soups",
+        "pt": "sopas",
+        "fr": "soupes",
+        "de": "Suppen"
+      },
+      "description": {
+        "es": "Una sopa fría tradicional española hecha con tomates frescos y verduras.",
+        "en": "A traditional Spanish cold soup made with fresh tomatoes and vegetables.",
+        "pt": "Uma sopa fria tradicional espanhola feita com tomates frescos e vegetais.",
+        "fr": "Une soupe froide espagnole traditionnelle faite avec des tomates fraîches et des légumes.",
+        "de": "Eine traditionelle spanische kalte Suppe aus frischen Tomaten und Gemüse."
+      }
+    },
+    {
+      "id": 22,
+      "name_i18n": {
+        "common": "coleslaw",
+        "es": "Ensalada de Col",
+        "en": "coleslaw",
+        "pt": "salada de repolho",
+        "fr": "salade de chou",
+        "de": "Krautsalat"
+      },
+      "price": 3.8,
+      "cover": "/coleslaw.webp",
+      "category": {
+        "common": "sidedishes",
+        "es": "guarniciones",
+        "en": "side dishes",
+        "pt": "acompanhamentos",
+        "fr": "accompagnements",
+        "de": "Beilagen"
+      },
+      "description": {
+        "es": "Repollo y zanahorias ralladas crujientes en un aderezo cremoso y ácido, un acompañamiento refrescante para complementar cualquier comida.",
+        "en": "Crunchy shredded cabbage and carrots in a creamy, tangy dressing, a refreshing side to complement any meal.",
+        "pt": "Repolho e cenouras raladas crocantes em um molho cremoso e ácido, um acompanhamento refrescante para complementar qualquer refeição.",
+        "fr": "Chou et carottes râpés croquants dans une sauce crémeuse et acidulée, un accompagnement rafraîchissant pour compléter tout repas.",
+        "de": "Knackig geraspelter Kohl und Karotten in einem cremigen, würzigen Dressing, eine erfrischende Beilage zu jeder Mahlzeit."
+      }
+    },
+    {
+      "id": 23,
+      "name_i18n": {
+        "common": "strawberryyogurt",
+        "es": "Yogur de Fresa",
+        "en": "Strawberry Yogurt",
+        "pt": "Iogurte de Morango",
+        "fr": "Yaourt à la Fraise",
+        "de": "Erdbeerjoghurt"
+      },
+      "price": 5.5,
+      "cover": "/strawberryyogurt.webp",
+      "category": {
+        "common": "desserts",
+        "es": "postres",
+        "en": "desserts",
+        "pt": "sobremesas",
+        "fr": "desserts",
+        "de": "Desserts"
+      },
+      "description": {
+        "es": "Yogur cremoso mezclado con puré de fresa fresca, coronado con un toque de granola para un crujiente delicioso.",
+        "en": "Creamy yogurt swirled with fresh strawberry puree, topped with a sprinkle of granola for a delightful crunch.",
+        "pt": "Iogurte cremoso misturado com purê de morango fresco, coberto com um toque de granola para uma crocância deliciosa.",
+        "fr": "Yaourt crémeux mélangé à de la purée de fraise fraîche, garni d'une touche de granola pour un croquant délicieux.",
+        "de": "Cremiger Joghurt mit frischem Erdbeerpüree, garniert mit etwas Granola für einen köstlichen Crunch."
+      }
+    },
+    {
+      "id": 24,
+      "name_i18n": {
+        "common": "hamburguesapollocrujiente",
+        "es": "Hamburguesa Pollo Crujiente",
+        "en": "Hamburguesa Pollo Crujiente",
+        "pt": "Hambúrguer de Frango Crocante",
+        "fr": "Burger de Poulet Croquant",
+        "de": "Knuspriger Hähnchen-Burger"
+      },
+      "price": 12.5,
+      "cover": "/hamburguesapollocrujiente.webp",
+      "category": {
+        "common": "maincourses",
+        "es": "principales",
+        "en": "main courses",
+        "pt": "pratos principais",
+        "fr": "plats principaux",
+        "de": "Hauptgerichte"
+      },
+      "description": {
+        "es": "Una hamburguesa de pollo crujiente y jugosa servida con lechuga fresca, tomate y una salsa casera picante en un pan tostado.",
+        "en": "A juicy crispy chicken burger served with fresh lettuce, tomato, and a tangy house sauce on a toasted bun.",
+        "pt": "Um hambúrguer de frango crocante e suculento servido com alface fresca, tomate e um molho especial em pão torrado.",
+        "fr": "Un burger de poulet croustillant et juteux servi avec de la laitue fraîche, de la tomate et une sauce maison relevée dans un pain grillé.",
+        "de": "Ein saftiger, knuspriger Hähnchen-Burger, serviert mit frischem Salat, Tomate und einer würzigen Haussauce im gerösteten Brötchen."
+      }
+    },
+    {
+      "id": 25,
+      "name_i18n": {
+        "common": "icecreamballs",
+        "es": "Bolas de Helado",
+        "en": "ice-cream balls",
+        "pt": "Bolas de Sorvete",
+        "fr": "Boules de Glace",
+        "de": "Eiskugeln"
+      },
+      "price": 5.2,
+      "cover": "/icecreamballs.webp",
+      "category": {
+        "common": "desserts",
+        "es": "postres",
+        "en": "desserts",
+        "pt": "sobremesas",
+        "fr": "desserts",
+        "de": "Desserts"
+      },
+      "description": {
+        "es": "Dos bolas de helado cremoso, elige tus sabores, servidas con un chorrito de chocolate y nata montada.",
+        "en": "Two scoops of creamy ice cream, choose your flavors, served with a drizzle of chocolate sauce and whipped cream.",
+        "pt": "Duas bolas de sorvete cremoso, escolha seus sabores, servidas com calda de chocolate e chantilly.",
+        "fr": "Deux boules de glace crémeuse, choisissez vos parfums, servies avec un filet de chocolat et de la chantilly.",
+        "de": "Zwei Kugeln cremiges Eis, wählen Sie Ihre Sorten, serviert mit Schokoladensauce und Schlagsahne."
+      }
+    },
+    {
+      "id": 26,
+      "name_i18n": {
+        "common": "brownie",
+        "es": "brownie",
+        "en": "brownie",
+        "pt": "brownie",
+        "fr": "brownie",
+        "de": "Brownie"
+      },
+      "price": 4.9,
+      "cover": "/brownie.webp",
+      "category": {
+        "common": "desserts",
+        "es": "postres",
+        "en": "desserts",
+        "pt": "sobremesas",
+        "fr": "desserts",
+        "de": "Desserts"
+      },
+      "description": {
+        "es": "Brownie rico y fudgy con una capa crujiente, servido caliente con una bola de helado de vainilla.",
+        "en": "Rich, fudgy chocolate brownie with a crisp top, served warm with a scoop of vanilla ice cream.",
+        "pt": "Brownie rico e macio com uma camada crocante, servido quente com uma bola de sorvete de baunilha.",
+        "fr": "Brownie riche et fondant avec une croûte croustillante, servi chaud avec une boule de glace vanille.",
+        "de": "Saftiger, schokoladiger Brownie mit knuspriger Kruste, warm serviert mit einer Kugel Vanilleeis."
+      }
+    },
+    {
+      "id": 27,
+      "name_i18n": {
+        "common": "torrijas",
+        "es": "torrijas",
+        "en": "spanish torrijas",
+        "pt": "rabanadas espanholas",
+        "fr": "torrijas espagnoles",
+        "de": "Spanische Torrijas"
+      },
+      "price": 6.8,
+      "cover": "/torrijas.webp",
+      "category": {
+        "common": "desserts",
+        "es": "postres",
+        "en": "desserts",
+        "pt": "sobremesas",
+        "fr": "desserts",
+        "de": "Desserts"
+      },
+      "description": {
+        "es": "Torrijas tradicionales españolas empapadas en leche, infusionadas con canela y rociadas con miel para un dulce y delicioso capricho.",
+        "en": "Traditional Spanish French toast soaked in milk, infused with cinnamon, and drizzled with honey for a sweet, indulgent treat.",
+        "pt": "Rabanadas tradicionais espanholas embebidas em leite, infusionadas com canela e regadas com mel para um doce delicioso.",
+        "fr": "Torrijas espagnoles traditionnelles trempées dans du lait, infusées à la cannelle et nappées de miel pour une douceur gourmande.",
+        "de": "Traditionelle spanische Torrijas in Milch getränkt, mit Zimt aromatisiert und mit Honig beträufelt – ein süßer Genuss."
+      }
+    },
+    {
+      "id": 28,
+      "name_i18n": {
+        "common": "themedpancakes",
+        "es": "Tortitas Temáticas",
+        "en": "Character-Themed Pancakes",
+        "pt": "Panquecas Temáticas",
+        "fr": "Pancakes Thématiques",
+        "de": "Themen-Pfannkuchen"
+      },
+      "price": 5.9,
+      "cover": "/themedpancakes.webp",
+      "category": {
+        "common": "specials",
+        "es": "especiales",
+        "en": "specials",
+        "pt": "especiais",
+        "fr": "spécialités",
+        "de": "Spezialitäten"
+      },
+      "description": {
+        "es": "Tortitas esponjosas con forma de personajes divertidos, servidas con jarabe de arce y un toque de azúcar glas, perfectas para los niños.",
+        "en": "Fluffy pancakes shaped like fun characters, served with maple syrup and a sprinkle of powdered sugar, perfect for kids.",
+        "pt": "Panquecas fofas em formato de personagens divertidos, servidas com xarope de bordo e açúcar de confeiteiro, perfeitas para crianças.",
+        "fr": "Pancakes moelleux en forme de personnages amusants, servis avec du sirop d'érable et une pincée de sucre glace, parfaits pour les enfants.",
+        "de": "Lockere Pfannkuchen in lustigen Figurenformen, serviert mit Ahornsirup und Puderzucker – perfekt für Kinder."
+      }
+    },
+    {
+      "id": 29,
+      "name_i18n": {
+        "common": "chickennuggets",
+        "es": "nuggets de pollo",
+        "en": "chicken nuggets",
+        "pt": "nuggets de frango",
+        "fr": "nuggets de poulet",
+        "de": "Chicken Nuggets"
+      },
+      "price": 6.5,
+      "cover": "/chickennuggets.webp",
+      "category": {
+        "common": "kidsmenu",
+        "es": "menú infantil",
+        "en": "kids menu",
+        "pt": "menu infantil",
+        "fr": "menu enfants",
+        "de": "Kindermenü"
+      },
+      "description": {
+        "es": "Nuggets de pollo dorados y crujientes hechos con pechuga de pollo tierna, servidos con ketchup o salsa barbacoa, perfectos para los niños.",
+        "en": "Crispy, golden chicken nuggets made from tender chicken breast, served with a side of ketchup or BBQ sauce, perfect for kids.",
+        "pt": "Nuggets de frango dourados e crocantes feitos com peito de frango macio, servidos com ketchup ou molho barbecue, perfeitos para crianças.",
+        "fr": "Nuggets de poulet dorés et croustillants faits avec du blanc de poulet tendre, servis avec du ketchup ou une sauce barbecue, parfaits pour les enfants.",
+        "de": "Knusprige, goldene Chicken Nuggets aus zarter Hähnchenbrust, serviert mit Ketchup oder BBQ-Sauce – perfekt für Kinder."
+      }
+    },
+    {
+      "id": 30,
+      "name_i18n": {
+        "common": "mashedpotatoes",
+        "es": "puré de patatas",
+        "en": "mashed potatoes",
+        "pt": "purê de batatas",
+        "fr": "purée de pommes de terre",
+        "de": "Kartoffelpüree"
+      },
+      "price": 4.0,
+      "cover": "/mashedpotatoes.webp",
+      "category": {
+        "common": "sidedishes",
+        "es": "guarniciones",
+        "en": "side dishes",
+        "pt": "acompanhamentos",
+        "fr": "accompagnements",
+        "de": "Beilagen"
+      },
+      "description": {
+        "es": "Puré de patatas cremoso, batido con mantequilla y un toque de nata, sazonado a la perfección para un acompañamiento reconfortante.",
+        "en": "Creamy mashed potatoes, whipped with butter and a touch of cream, seasoned to perfection for a comforting side.",
+        "pt": "Purê de batatas cremoso, batido com manteiga e um toque de creme, temperado na medida certa para um acompanhamento reconfortante.",
+        "fr": "Purée de pommes de terre crémeuse, fouettée avec du beurre et une touche de crème, assaisonnée à la perfection pour un accompagnement réconfortant.",
+        "de": "Cremiges Kartoffelpüree, mit Butter und einem Hauch Sahne aufgeschlagen, perfekt gewürzt für eine wohltuende Beilage."
+      }
+    },
+    {
+      "id": 31,
+      "name_i18n": {
+        "common": "tacotrio",
+        "es": "mini taco trio",
+        "en": "mini taco trio",
+        "pt": "trio de mini tacos",
+        "fr": "trio de mini tacos",
+        "de": "Mini-Taco-Trio"
+      },
+      "price": 7.2,
+      "cover": "/tacotrio.webp",
+      "category": {
+        "common": "specials",
+        "es": "especiales",
+        "en": "specials",
+        "pt": "especiais",
+        "fr": "spécialités",
+        "de": "Spezialitäten"
+      },
+      "description": {
+        "es": "Tres mini tacos del tamaño de un niño rellenos de carne picada sazonada, lechuga y queso, servidos con una salsa suave al lado.",
+        "en": "Three kid-sized soft tacos filled with seasoned ground beef, lettuce, and cheese, served with a mild salsa on the side.",
+        "pt": "Três mini tacos recheados com carne moída temperada, alface e queijo, servidos com um molho suave ao lado.",
+        "fr": "Trois mini tacos garnis de bœuf haché assaisonné, de laitue et de fromage, servis avec une sauce douce à côté.",
+        "de": "Drei Mini-Tacos gefüllt mit gewürztem Hackfleisch, Salat und Käse, serviert mit einer milden Salsa."
+      }
+    },
+    {
+      "id": 32,
+      "name_i18n": {
+        "common": "huevosrotos",
+        "es": "Huevos Rotos",
+        "en": "Huevos Rotos",
+        "pt": "Ovos Rotos",
+        "fr": "Huevos Rotos",
+        "de": "Huevos Rotos"
+      },
+      "price": 9.8,
+      "cover": "/huevosrotos.webp",
+      "category": {
+        "common": "maincourses",
+        "es": "principales",
+        "en": "main courses",
+        "pt": "pratos principais",
+        "fr": "plats principaux",
+        "de": "Hauptgerichte"
+      },
+      "description": {
+        "es": "Papas fritas crujientes cubiertas con huevos fritos perfectamente cocidos, rotos para crear un plato rico y sabroso, a menudo servido con jamón.",
+        "en": "Crispy fried potatoes topped with perfectly fried eggs, broken to create a rich, savory dish, often served with jamón.",
+        "pt": "Batatas fritas crocantes cobertas com ovos fritos perfeitamente cozidos, quebrados para criar um prato rico e saboroso, frequentemente servido com presunto.",
+        "fr": "Pommes de terre frites croustillantes recouvertes d'œufs frits parfaitement cuits, cassés pour créer un plat riche et savoureux, souvent servi avec du jambon.",
+        "de": "Knusprige Bratkartoffeln, belegt mit perfekt gebratenen Eiern, aufgebrochen für ein reichhaltiges, herzhaftes Gericht, oft mit Schinken serviert."
+      }
+    },
+    {
+      "id": 33,
+      "name_i18n": {
+        "common": "herosliders",
+        "es": "superhéroes sliders",
+        "en": "superhero sliders",
+        "pt": "mini hambúrgueres de super-herói",
+        "fr": "mini burgers de super-héros",
+        "de": "Superhelden-Slider"
+      },
+      "price": 7.8,
+      "cover": "/herosliders.webp",
+      "category": {
+        "common": "specials",
+        "es": "especiales",
+        "en": "specials",
+        "pt": "especiais",
+        "fr": "spécialités",
+        "de": "Spezialitäten"
+      },
+      "description": {
+        "es": "Un par de mini hamburguesas 'Captain’s Sliders' en panecillos coloridos, cubiertas con queso y servidas con una guarnición de patatas fritas crujientes o palitos de verduras para una comida divertida y amigable para los niños.",
+        "en": "A pair of mini 'Captain’s Sliders' burgers on colorful buns, topped with cheese and served with a side of crispy fries or veggie sticks for a fun, kid-friendly meal.",
+        "pt": "Um par de mini hambúrgueres 'Captain’s Sliders' em pãezinhos coloridos, cobertos com queijo e servidos com batatas fritas crocantes ou palitos de legumes para uma refeição divertida e amigável para crianças.",
+        "fr": "Une paire de mini burgers 'Captain’s Sliders' sur des petits pains colorés, garnis de fromage et servis avec des frites croustillantes ou des bâtonnets de légumes pour un repas amusant et adapté aux enfants.",
+        "de": "Ein Paar Mini-Burger 'Captain’s Sliders' auf bunten Brötchen, mit Käse belegt und serviert mit knusprigen Pommes oder Gemüsesticks – ein lustiges, kinderfreundliches Gericht."
+      }
+    },
+    {
+      "id": 34,
+      "name_i18n": {
+        "common": "redwine",
+        "es": "Copa de Vino Tinto",
+        "en": "glass of red wine",
+        "pt": "taça de vinho tinto",
+        "fr": "verre de vin rouge",
+        "de": "Glas Rotwein"
+      },
+      "price": 4.5,
+      "cover": "/redwine.webp",
+      "category": {
+        "common": "drinks",
+        "es": "bebidas",
+        "en": "drinks",
+        "pt": "bebidas",
+        "fr": "boissons",
+        "de": "Getränke"
+      },
+      "description": {
+        "es": "Un vino tinto suave y robusto, servido en copa de 175ml, con notas ricas a bayas y un acabado aterciopelado.",
+        "en": "A smooth and robust red wine, served in a 175ml glass, with rich berry notes and a velvety finish.",
+        "pt": "Um vinho tinto suave e robusto, servido em taça de 175ml, com notas ricas de frutas vermelhas e um final aveludado.",
+        "fr": "Un vin rouge doux et robuste, servi dans un verre de 175 ml, avec des notes riches de baies et une finition veloutée.",
+        "de": "Ein weicher und kräftiger Rotwein, serviert im 175ml-Glas, mit reichen Beerennoten und einem samtigen Abgang."
+      }
+    },
+    {
+      "id": 35,
+      "name_i18n": {
+        "common": "cabreiroawater",
+        "es": "Agua Cabreiroa",
+        "en": "Cabreiroa Water",
+        "pt": "Água Cabreiroa",
+        "fr": "Eau Cabreiroa",
+        "de": "Cabreiroa Wasser"
+      },
+      "price": 2.0,
+      "cover": "/cabreiroawater.webp",
+      "category": {
+        "common": "drinks",
+        "es": "bebidas",
+        "en": "drinks",
+        "pt": "bebidas",
+        "fr": "boissons",
+        "de": "Getränke"
+      },
+      "description": {
+        "es": "Agua mineral pura y natural de Galicia, España, con mineralización equilibrada para una hidratación refrescante.",
+        "en": "Pure, natural mineral water from Galicia, Spain, with balanced mineralization for refreshing hydration.",
+        "pt": "Água mineral pura e natural da Galícia, Espanha, com mineralização equilibrada para uma hidratação refrescante.",
+        "fr": "Eau minérale pure et naturelle de Galice, Espagne, avec une minéralisation équilibrée pour une hydratation rafraîchissante.",
+        "de": "Reines, natürliches Mineralwasser aus Galicien, Spanien, mit ausgewogener Mineralisierung für erfrischende Hydration."
+      }
+    },
+    {
+      "id": 36,
+      "name_i18n": {
+        "common": "cocacola",
+        "es": "Coca Cola",
+        "en": "Coca Cola",
+        "pt": "Coca Cola",
+        "fr": "Coca Cola",
+        "de": "Coca Cola"
+      },
+      "price": 2.5,
+      "cover": "/cocacola.webp",
+      "category": {
+        "common": "drinks",
+        "es": "bebidas",
+        "en": "drinks",
+        "pt": "bebidas",
+        "fr": "boissons",
+        "de": "Getränke"
+      },
+      "description": {
+        "es": "Coca-Cola clásica en botella de cristal de 350ml, que ofrece un sabor icónico y refrescante con un equilibrio perfecto de dulzura y burbujas.",
+        "en": "Classic Coca-Cola in a 350ml glass bottle, offering a refreshing, iconic cola taste with a perfect balance of sweetness and fizz.",
+        "pt": "Coca-Cola clássica em garrafa de vidro de 350ml, oferecendo um sabor icônico e refrescante com equilíbrio perfeito de doçura e efervescência.",
+        "fr": "Coca-Cola classique en bouteille de 350ml, offrant un goût de cola rafraîchissant et iconique avec un équilibre parfait entre douceur et pétillant.",
+        "de": "Klassische Coca-Cola in der 350ml-Glasflasche, bietet einen erfrischenden, ikonischen Cola-Geschmack mit perfekter Balance aus Süße und Spritzigkeit."
+      }
+    },
+    {
+      "id": 37,
+      "name_i18n": {
+        "common": "applespritz",
+        "es": "Spritz de Manzana",
+        "en": "Apple Spritz",
+        "pt": "Spritz de Maçã",
+        "fr": "Spritz à la Pomme",
+        "de": "Apfel Spritz"
+      },
+      "price": 3.5,
+      "cover": "/applespritz.webp",
+      "category": {
+        "common": "drinks",
+        "es": "bebidas",
+        "en": "drinks",
+        "pt": "bebidas",
+        "fr": "boissons",
+        "de": "Getränke"
+      },
+      "description": {
+        "es": "Un refrescante spritz de manzana en botella de 350ml, que combina notas de manzana crujiente con un ligero burbujeo.",
+        "en": "A refreshing apple-flavored spritz in a 350ml bottle, combining crisp apple notes with a light, fizzy sparkle.",
+        "pt": "Um refrescante spritz de maçã em garrafa de 350ml, que combina notas de maçã crocante com uma leve efervescência.",
+        "fr": "Un spritz à la pomme rafraîchissant en bouteille de 350ml, combinant des notes de pomme croquante avec une légère effervescence.",
+        "de": "Ein erfrischender Apfel-Spritz in der 350ml-Flasche, kombiniert knackige Apfelnoten mit einer leichten Spritzigkeit."
+      }
+    },
+    {
+      "id": 38,
+      "name_i18n": {
+        "common": "bakedbeans",
+        "es": "Alubias al Horno",
+        "en": "Baked Beans",
+        "pt": "Feijão Assado",
+        "fr": "Haricots au Four",
+        "de": "Gebratene Bohnen"
+      },
+      "price": 3.9,
+      "cover": "/bakedbeans.webp",
+      "category": {
+        "common": "sidedishes",
+        "es": "guarniciones",
+        "en": "side dishes",
+        "pt": "acompanhamentos",
+        "fr": "accompagnements",
+        "de": "Beilagen"
+      },
+      "description": {
+        "es": "Alubias horneadas cocidas lentamente en una rica y sabrosa salsa de tomate, que ofrecen un acompañamiento abundante y reconfortante.",
+        "en": "Slow-cooked baked beans in a rich, savory tomato sauce, offering a hearty and comforting side dish.",
+        "pt": "Feijão assado lentamente em um molho de tomate rico e saboroso, oferecendo um acompanhamento farto e reconfortante.",
+        "fr": "Haricots cuits au four lentement dans une sauce tomate riche et savoureuse, offrant un accompagnement copieux et réconfortant.",
+        "de": "Langsam gebackene Bohnen in einer reichhaltigen, würzigen Tomatensauce – eine herzhafte und tröstliche Beilage."
+      }
+    },
+    {
+      "id": 39,
+      "name_i18n": {
+        "common": "vegetablesoup",
+        "es": "Sopa de Verduras",
+        "en": "vegetable soup",
+        "pt": "Sopa de Legumes",
+        "fr": "Soupe de Légumes",
+        "de": "Gemüsesuppe"
+      },
+      "price": 6.5,
+      "cover": "/vegetablesoup.webp",
+      "category": {
+        "common": "soups",
+        "es": "sopas",
+        "en": "soups",
+        "pt": "sopas",
+        "fr": "soupes",
+        "de": "Suppen"
+      },
+      "description": {
+        "es": "Una abundante mezcla de verduras frescas de temporada, cocidas a fuego lento en un caldo sabroso, perfecta para una comida reconfortante.",
+        "en": "A hearty blend of fresh seasonal vegetables, simmered in a savory broth, perfect for a comforting meal.",
+        "pt": "Uma mistura farta de legumes frescos da estação, cozidos lentamente em um caldo saboroso, perfeita para uma refeição reconfortante.",
+        "fr": "Un mélange copieux de légumes frais de saison, mijotés dans un bouillon savoureux, parfait pour un repas réconfortant.",
+        "de": "Eine herzhafte Mischung aus frischem saisonalem Gemüse, langsam in einer würzigen Brühe gekocht – perfekt für eine wohltuende Mahlzeit."
+      }
+    },
+    {
+      "id": 40,
+      "name_i18n": {
+        "common": "patatasbravas",
+        "es": "patatas bravas",
+        "en": "patatas bravas",
+        "pt": "batatas bravas",
+        "fr": "patatas bravas",
+        "de": "Patatas Bravas"
+      },
+      "price": 8.5,
+      "cover": "/patatasbravas.webp",
+      "category": {
+        "common": "appetizers",
+        "es": "entrantes",
+        "en": "appetizers",
+        "pt": "entradas",
+        "fr": "entrées",
+        "de": "Vorspeisen"
+      },
+      "description": {
+        "es": "Patatas fritas crujientes servidas con una salsa de tomate picante y alioli cremoso, perfectas para compartir.",
+        "en": "Crispy fried potatoes served with a spicy tomato sauce and creamy aioli, perfect for sharing.",
+        "pt": "Batatas fritas crocantes servidas com um molho de tomate picante e aioli cremoso, perfeitas para compartilhar.",
+        "fr": "Pommes de terre frites croustillantes servies avec une sauce tomate épicée et de l'aïoli crémeux, parfaites à partager.",
+        "de": "Knusprige Bratkartoffeln, serviert mit scharfer Tomatensauce und cremigem Aioli – perfekt zum Teilen."
+      }
+    },
+    {
+      "id": 41,
+      "name_i18n": {
+        "common": "macandcheese",
+        "es": "Macarrones con Queso",
+        "en": "Mac and Cheese",
+        "pt": "Macarrão com Queijo",
+        "fr": "Macaroni au Fromage",
+        "de": "Mac and Cheese"
+      },
+      "price": 6.8,
+      "cover": "/macandcheese.webp",
+      "category": {
+        "common": "kidsmenu",
+        "es": "menú infantil",
+        "en": "kids menu",
+        "pt": "menu infantil",
+        "fr": "menu enfants",
+        "de": "Kindermenü"
+      },
+      "description": {
+        "es": "Macarrones cremosos y quesosos al horno con una corteza dorada de cheddar, un clásico amigable para los niños que es rico y reconfortante.",
+        "en": "Creamy, cheesy macaroni baked with a golden cheddar crust, a kid-friendly classic that's rich and comforting.",
+        "pt": "Macarrão cremoso e com queijo assado com uma crosta dourada de cheddar, um clássico para crianças que é rico e reconfortante.",
+        "fr": "Macaroni crémeux et fromager gratiné avec une croûte dorée de cheddar, un classique pour enfants riche et réconfortant.",
+        "de": "Cremige, käsige Makkaroni, gebacken mit einer goldenen Cheddar-Kruste – ein kinderfreundlicher Klassiker, der reichhaltig und tröstlich ist."
+      }
+    },
+    {
+      "id": 42,
+      "name_i18n": {
+        "common": "fantadenaranja",
+        "es": "Fanta de Naranja",
+        "en": "Fanta de Naranja",
+        "pt": "Fanta Laranja",
+        "fr": "Fanta Orange",
+        "de": "Fanta Orange"
+      },
+      "price": 2.5,
+      "cover": "/fantadenaranja.webp",
+      "category": {
+        "common": "drinks",
+        "es": "bebidas",
+        "en": "drinks",
+        "pt": "bebidas",
+        "fr": "boissons",
+        "de": "Getränke"
+      },
+      "description": {
+        "es": "Fanta de naranja refrescante en botella de 350ml, repleta de sabor cítrico vibrante y un acabado burbujeante.",
+        "en": "Refreshing orange Fanta in a 350ml bottle, bursting with zesty citrus flavor and a fizzy finish.",
+        "pt": "Fanta laranja refrescante em garrafa de 350ml, cheia de sabor cítrico vibrante e um final borbulhante.",
+        "fr": "Fanta orange rafraîchissante en bouteille de 350ml, pleine de saveur d'agrumes vive et une finale pétillante.",
+        "de": "Erfrischende Fanta Orange in der 350ml-Flasche, voller spritzigem Zitrusgeschmack und prickelndem Abgang."
+      }
+    }
+  ]
 }
