@@ -1,7 +1,7 @@
 {
   "siteCover": "/items/applespritz.webp",
   "siteWelcome": {
-    "es": "Bienvenido a",
+    "es": "Bienvenidoe a",
     "en": "Welcome to",
     "pt": "Bem-vindo a",
     "fr": "Bienvenue à",
@@ -111,6 +111,148 @@
       "fr": "boissons",
       "de": "Getränke",
       "cover": "/categories/drinks.webp"
+    }
+  ],
+  "allergens": [
+    {
+      "order": 1,
+      "slug": "gluten",
+      "es": "gluten",
+      "en": "gluten",
+      "pt": "glúten",
+      "fr": "gluten",
+      "de": "gluten",
+      "cover": "/allergens/gluten.webp"
+    },
+    {
+      "order": 2,
+      "slug": "crustaceans",
+      "es": "crustáceos",
+      "en": "crustaceans",
+      "pt": "crustáceos",
+      "fr": "crustacés",
+      "de": "Krustentiere",
+      "cover": "/allergens/crustaceans.webp"
+    },
+    {
+      "order": 3,
+      "slug": "eggs",
+      "es": "huevos",
+      "en": "eggs",
+      "pt": "ovos",
+      "fr": "œufs",
+      "de": "Eier",
+      "cover": "/allergens/eggs.webp"
+    },
+    {
+      "order": 4,
+      "slug": "fish",
+      "es": "pescado",
+      "en": "fish",
+      "pt": "peixe",
+      "fr": "poisson",
+      "de": "fisch",
+      "cover": "/allergens/fish.webp"
+    },
+    {
+      "order": 5,
+      "slug": "peanuts",
+      "es": "cacahuetes",
+      "en": "peanuts",
+      "pt": "amendoim",
+      "fr": "cacahuètes",
+      "de": "erdnüsse",
+      "cover": "/allergens/peanuts.webp"
+    },
+    {
+      "order": 6,
+      "slug": "soybeans",
+      "es": "soja",
+      "en": "soybeans",
+      "pt": "soja",
+      "fr": "soja",
+      "de": "sojabohnen",
+      "cover": "/allergens/soybeans.webp"
+    },
+    {
+      "order": 7,
+      "slug": "dairy",
+      "es": "lácteos",
+      "en": "dairy",
+      "pt": "laticínios",
+      "fr": "produits laitiers",
+      "de": "Milchprodukte",
+      "cover": "/allergens/dairy.webp"
+    },
+    {
+      "order": 8,
+      "slug": "nuts",
+      "es": "frutos secos",
+      "en": "nuts",
+      "pt": "nozes",
+      "fr": "noix",
+      "de": "nüsse",
+      "cover": "/allergens/nuts.webp"
+    },
+    {
+      "order": 9,
+      "slug": "celery",
+      "es": "apio",
+      "en": "celery",
+      "pt": "aipo",
+      "fr": "céleri",
+      "de": "sellerie",
+      "cover": "/allergens/celery.webp"
+    },
+    {
+      "order": 10,
+      "slug": "mustard",
+      "es": "mostaza",
+      "en": "mustard",
+      "pt": "mostarda",
+      "fr": "moutarde",
+      "de": "senf",
+      "cover": "/allergens/mustard.webp"
+    },
+    {
+      "order": 11,
+      "slug": "sesame",
+      "es": "sésamo",
+      "en": "sesame",
+      "pt": "gergelim",
+      "fr": "sésame",
+      "de": "sesam",
+      "cover": "/allergens/sesame.webp"
+    },
+    {
+      "order": 12,
+      "slug": "sulphur-dioxide",
+      "es": "dióxido de azufre",
+      "en": "sulphur dioxide",
+      "pt": "dióxido de enxofre",
+      "fr": "dioxyde de soufre",
+      "de": "schwefeldioxid",
+      "cover": "/allergens/sulphur-dioxide.webp"
+    },
+    {
+      "order": 13,
+      "slug": "molluscs",
+      "es": "moluscos",
+      "en": "molluscs",
+      "pt": "moluscos",
+      "fr": "mollusques",
+      "de": "weichtiere",
+      "cover": "/allergens/molluscs.webp"
+    },
+    {
+      "order": 14,
+      "slug": "lupin",
+      "es": "lupino",
+      "en": "lupin",
+      "pt": "lupin",
+      "fr": "lupin",
+      "de": "Lupine",
+      "cover": "/allergens/lupin.webp"
     }
   ],
   "items": [
