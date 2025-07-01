@@ -134,7 +134,7 @@
         "fr": "plats principaux",
         "de": "Hauptgerichte"
       },
-      "allergens": ["gluten"],
+      "allergens": ["gluten", "nuts"],
       "description": {
         "es": "Arroz negro infusionado con tinta de calamar, coronado con zamburiñas tiernas y un toque de alioli, lleno de sabores costeros.",
         "en": "Black rice infused with squid ink, topped with tender scallops and a touch of aioli, bursting with coastal flavors.",
